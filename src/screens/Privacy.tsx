@@ -21,6 +21,10 @@ export function PrivacyScreen({ onBack, onSupport }: Props) {
           If you join the optional Pro waitlist, we only use the email you type — your shortlist still
           stays on this phone.
         </p>
+        <p className="lede">
+          Meanings and origins are given as-is for inspiration. They are not certified history or a
+          guarantee of accuracy.
+        </p>
       </div>
       <p className="lede">
           <a href="https://eflav.github.io/namey/privacy.html" target="_blank" rel="noopener noreferrer">

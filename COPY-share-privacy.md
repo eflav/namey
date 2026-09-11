@@ -48,3 +48,8 @@ Notes for eng:
 - **Para 1:** Your favourites stay on this phone. We don’t create an account for you, and we don’t sync your shortlist anywhere.
 - **Para 2:** Namey doesn’t track you around the web. What you save here is yours alone on this device.
 - **Back:** Back
+
+## Name data disclaimer
+
+- **Short (Privacy / listing):** Meanings and origins are given as-is for inspiration. They are not certified history or a guarantee of accuracy.
+- **Ultra-short (footnote):** Meanings are for inspiration — not certified history.

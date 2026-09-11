@@ -89,6 +89,9 @@ We don’t sell your personal data. We don’t use your shortlist for advertisin
 Tips and payments
 Tips may come later. This version does not take payments. If that changes, we’ll update this page before any payment is offered.
 
+Name meanings and origins
+Meanings and origins in Namey are given as-is for inspiration. They are not certified history or a guarantee of accuracy.
+
 What we don’t do
 • We don’t require an account to browse or save names
 • We don’t track you around other websites for ads

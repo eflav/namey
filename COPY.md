@@ -95,3 +95,8 @@ Final strings only. Ready to paste. Choice ids/effects unchanged.
 
 - **Label:** Not sure
 - **Hint (optional):** Skip this one — you can still get good matches.
+
+## Name data disclaimer
+
+- **Privacy / listing:** Meanings and origins are given as-is for inspiration. They are not certified history or a guarantee of accuracy.
+- **Footnote:** Meanings are for inspiration — not certified history.
