@@ -1,0 +1,47 @@
+# Namey — share, install, trust & privacy (en-GB)
+
+Final strings only. Ready to paste.
+
+## Share captions
+
+### Single name
+```
+{Name} — {hidden meaning}
+
+Found on Namey
+```
+
+### Favourites (multi-name)
+```
+Our shortlist:
+{Name1} — {hidden meaning}
+{Name2} — {hidden meaning}
+{Name3} — {hidden meaning}
+
+Found on Namey
+```
+
+Notes for eng:
+- Use the hidden/deeper meaning string already shown on Detail.
+- If hidden meaning is missing, fall back to literal Meaning.
+- Cap multi-name shares at 5 lines; if more favourites, end with `+{N} more` before the footer.
+- Keep line breaks as shown (TikTok / Messages friendly).
+
+## Add to Home Screen (after first save)
+
+- **Title:** Keep Namey handy
+- **Body:** Add it to your Home Screen so your shortlist is one tap away. Nothing leaves this phone.
+- **Install CTA:** Add to Home Screen
+- **Dismiss:** Not now
+
+## Trust strip
+
+- **Default:** Shortlist stays on this phone · no account
+- **Tighter (if space is tight):** On this phone · no account
+
+## Privacy
+
+- **Title:** Privacy
+- **Para 1:** Your favourites stay on this phone. We don’t create an account for you, and we don’t sync your shortlist anywhere.
+- **Para 2:** Namey doesn’t track you around the web. What you save here is yours alone on this device.
+- **Back:** Back

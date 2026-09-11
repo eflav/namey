@@ -1,0 +1,7119 @@
+[
+  {
+    "id": "oliver",
+    "name": "Oliver",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "From Old French Olivier, related to Latin oliva",
+    "meaning": "Olive tree",
+    "hiddenMeaning": "Peace and fruitfulness; a name that grows quietly into strength",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "james",
+    "name": "James",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Strength"
+    ],
+    "etymology": "From Hebrew Yaʿaqov via Latin Iacomus",
+    "meaning": "Supplanter",
+    "hiddenMeaning": "The steady backbone of a household; classic without being cold",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "william",
+    "name": "William",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "German"
+    ],
+    "themes": [
+      "Strength",
+      "Royalty"
+    ],
+    "etymology": "From Germanic Willhelm: will + helm",
+    "meaning": "Resolute protector",
+    "hiddenMeaning": "A name that wears a crown lightly",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "henry",
+    "name": "Henry",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "German",
+      "French"
+    ],
+    "themes": [
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "From Germanic Heimirich: home + ruler",
+    "meaning": "Ruler of the home",
+    "hiddenMeaning": "Quiet authority; the king who stays close to the hearth",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "theodore",
+    "name": "Theodore",
+    "gender": "boy",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Wisdom",
+      "Biblical"
+    ],
+    "etymology": "From Greek Theodōros: theos + dōron",
+    "meaning": "Gift of God",
+    "hiddenMeaning": "A name that feels both scholarly and warm",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "leo",
+    "name": "Leo",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "English",
+      "Italian"
+    ],
+    "themes": [
+      "Strength",
+      "Short & sweet",
+      "Royalty"
+    ],
+    "etymology": "From Latin leo",
+    "meaning": "Lion",
+    "hiddenMeaning": "Courage in a compact package",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "noah",
+    "name": "Noah",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Nature"
+    ],
+    "etymology": "From Hebrew Noach",
+    "meaning": "Rest; comfort",
+    "hiddenMeaning": "After the storm, calm waters",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "arthur",
+    "name": "Arthur",
+    "gender": "boy",
+    "origins": [
+      "Celtic",
+      "Welsh",
+      "English"
+    ],
+    "themes": [
+      "Mythology",
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "Possibly from Celtic artos (bear) or Roman Artorius",
+    "meaning": "Bear; noble strength",
+    "hiddenMeaning": "Legend made wearable for everyday life",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "felix",
+    "name": "Felix",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "German"
+    ],
+    "themes": [
+      "Light",
+      "Unique"
+    ],
+    "etymology": "From Latin felix",
+    "meaning": "Happy; fortunate",
+    "hiddenMeaning": "A small spark of luck in every introduction",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "silas",
+    "name": "Silas",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "Greek",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "From Latin Silvanus / Greek Silouanos",
+    "meaning": "Of the forest",
+    "hiddenMeaning": "Woodland quiet with biblical roots",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ezra",
+    "name": "Ezra",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom",
+      "Short & sweet"
+    ],
+    "etymology": "From Hebrew ʿEzra",
+    "meaning": "Help",
+    "hiddenMeaning": "Scholarly and soft-spoken strength",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "julian",
+    "name": "Julian",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "English",
+      "Spanish"
+    ],
+    "themes": [
+      "Grace",
+      "Vintage"
+    ],
+    "etymology": "From Latin Iulianus, of Julius",
+    "meaning": "Youthful; downy-bearded",
+    "hiddenMeaning": "Roman polish with a gentle edge",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "mateo",
+    "name": "Mateo",
+    "gender": "boy",
+    "origins": [
+      "Spanish",
+      "Hebrew"
+    ],
+    "themes": [
+      "Biblical",
+      "Modern"
+    ],
+    "etymology": "Spanish form of Matthew from Hebrew Mattityahu",
+    "meaning": "Gift of God",
+    "hiddenMeaning": "Warm Mediterranean light on an old blessing",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "luca",
+    "name": "Luca",
+    "gender": "boy",
+    "origins": [
+      "Italian",
+      "Greek"
+    ],
+    "themes": [
+      "Light",
+      "Short & sweet"
+    ],
+    "etymology": "Italian form of Lucas from Greek Loukas",
+    "meaning": "From Lucania; light",
+    "hiddenMeaning": "Italian ease with a bright undertone",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "sebastian",
+    "name": "Sebastian",
+    "gender": "boy",
+    "origins": [
+      "Greek",
+      "Latin",
+      "German"
+    ],
+    "themes": [
+      "Grace",
+      "Royalty"
+    ],
+    "etymology": "From Greek Sebastos, venerable",
+    "meaning": "Revered; majestic",
+    "hiddenMeaning": "Long, elegant, and quietly commanding",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "oscar",
+    "name": "Oscar",
+    "gender": "boy",
+    "origins": [
+      "Irish",
+      "Scandinavian",
+      "English"
+    ],
+    "themes": [
+      "Strength",
+      "Vintage"
+    ],
+    "etymology": "From Old Irish Oscur or Old Norse Ásgeirr",
+    "meaning": "Deer friend; god's spear",
+    "hiddenMeaning": "Irish poetry meets Nordic steel",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "finn",
+    "name": "Finn",
+    "gender": "boy",
+    "origins": [
+      "Irish",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From Irish Fionn",
+    "meaning": "Fair; white",
+    "hiddenMeaning": "A breeze off the Atlantic",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "callum",
+    "name": "Callum",
+    "gender": "boy",
+    "origins": [
+      "Scottish",
+      "Latin"
+    ],
+    "themes": [
+      "Nature"
+    ],
+    "etymology": "From Latin Columba via Scottish Gaelic",
+    "meaning": "Dove",
+    "hiddenMeaning": "Peace with a Highland accent",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "rhys",
+    "name": "Rhys",
+    "gender": "boy",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Strength",
+      "Short & sweet"
+    ],
+    "etymology": "From Welsh rhys",
+    "meaning": "Enthusiasm; ardor",
+    "hiddenMeaning": "Compact Welsh fire",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "owen",
+    "name": "Owen",
+    "gender": "boy",
+    "origins": [
+      "Welsh",
+      "English"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Welsh Owain, possibly from Eugenius",
+    "meaning": "Well-born; youthful warrior",
+    "hiddenMeaning": "Solid and sunlit",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "caleb",
+    "name": "Caleb",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Strength"
+    ],
+    "etymology": "From Hebrew Kalev",
+    "meaning": "Whole-hearted; faithful",
+    "hiddenMeaning": "Loyalty that doesn't need to shout",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "isaac",
+    "name": "Isaac",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "From Hebrew Yitzchaq",
+    "meaning": "He will laugh",
+    "hiddenMeaning": "Joy braided into an ancient name",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "ethan",
+    "name": "Ethan",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Strength"
+    ],
+    "etymology": "From Hebrew Eitan",
+    "meaning": "Strong; enduring",
+    "hiddenMeaning": "Rock-steady without being rigid",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "samuel",
+    "name": "Samuel",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "From Hebrew Shemuel",
+    "meaning": "Heard by God; name of God",
+    "hiddenMeaning": "A listening kind of strength",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "benjamin",
+    "name": "Benjamin",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Binyamin",
+    "meaning": "Son of the right hand",
+    "hiddenMeaning": "Favored and warm; the last becomes first",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "daniel",
+    "name": "Daniel",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "From Hebrew Daniyyel",
+    "meaning": "God is my judge",
+    "hiddenMeaning": "Integrity under pressure",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "gabriel",
+    "name": "Gabriel",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "French"
+    ],
+    "themes": [
+      "Biblical",
+      "Light"
+    ],
+    "etymology": "From Hebrew Gavriʾel",
+    "meaning": "God is my strength",
+    "hiddenMeaning": "Messenger energy; bright and kind",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "michael",
+    "name": "Michael",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Strength"
+    ],
+    "etymology": "From Hebrew Mikhaʾel",
+    "meaning": "Who is like God?",
+    "hiddenMeaning": "Archangel steel wrapped in familiarity",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "alexander",
+    "name": "Alexander",
+    "gender": "boy",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "From Greek Alexandros: alexein + anēr",
+    "meaning": "Defender of men",
+    "hiddenMeaning": "Epic scale, wearable every day",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "nicholas",
+    "name": "Nicholas",
+    "gender": "boy",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "etymology": "From Greek Nikolaos: nikē + laos",
+    "meaning": "Victory of the people",
+    "hiddenMeaning": "Generous spirit; classic cheer",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "thomas",
+    "name": "Thomas",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "From Aramaic Tʾoma",
+    "meaning": "Twin",
+    "hiddenMeaning": "Doubt that leads to deeper faith",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "joseph",
+    "name": "Joseph",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "From Hebrew Yosef",
+    "meaning": "He will add",
+    "hiddenMeaning": "Quiet increase; the dreamer's patience",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "Welsh"
+    ],
+    "themes": [
+      "Biblical",
+      "Royalty"
+    ],
+    "etymology": "From Hebrew Dawid",
+    "meaning": "Beloved",
+    "hiddenMeaning": "Shepherd-king warmth",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From Hebrew ʾAdam",
+    "meaning": "Man; of the earth",
+    "hiddenMeaning": "First light on new ground",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "nathan",
+    "name": "Nathan",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "From Hebrew Natan",
+    "meaning": "He gave",
+    "hiddenMeaning": "Giftedness without showiness",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "aaron",
+    "name": "Aaron",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Light"
+    ],
+    "etymology": "From Hebrew ʾAharon; meaning uncertain",
+    "meaning": "Exalted; mountain of strength",
+    "hiddenMeaning": "Priestly calm beside the fire",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "eli",
+    "name": "Eli",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Short & sweet",
+      "Light"
+    ],
+    "etymology": "From Hebrew ʿEli",
+    "meaning": "Ascended; my God",
+    "hiddenMeaning": "Small name, high reach",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "asher",
+    "name": "Asher",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Light",
+      "Nature"
+    ],
+    "etymology": "From Hebrew ʾAsher",
+    "meaning": "Happy; blessed",
+    "hiddenMeaning": "Fortune that feels earned",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "levi",
+    "name": "Levi",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Short & sweet"
+    ],
+    "etymology": "From Hebrew Lewi",
+    "meaning": "Joined; attached",
+    "hiddenMeaning": "Bond and belonging in three letters",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "jude",
+    "name": "Jude",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "Short form of Judah from Hebrew Yehudah",
+    "meaning": "Praised",
+    "hiddenMeaning": "Literary cool with ancient roots",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "miles",
+    "name": "Miles",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "Latin",
+      "German"
+    ],
+    "themes": [
+      "Strength",
+      "Modern"
+    ],
+    "etymology": "From Latin miles or Germanic Milo",
+    "meaning": "Soldier; merciful",
+    "hiddenMeaning": "Understated grit",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "wesley",
+    "name": "Wesley",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Vintage"
+    ],
+    "etymology": "From Old English west + lēah",
+    "meaning": "Western meadow",
+    "hiddenMeaning": "Open fields and quiet faith",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "brooks",
+    "name": "Brooks",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Modern",
+      "Short & sweet"
+    ],
+    "etymology": "From English surname for one near a brook",
+    "meaning": "Small stream",
+    "hiddenMeaning": "Fresh water energy",
+    "syllables": 1,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "atlas",
+    "name": "Atlas",
+    "gender": "boy",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Strength",
+      "Unique"
+    ],
+    "etymology": "From Greek Atlas, the Titan",
+    "meaning": "To bear; to endure",
+    "hiddenMeaning": "Shoulders for the sky—and for family",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "orion",
+    "name": "Orion",
+    "gender": "boy",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Light",
+      "Unique"
+    ],
+    "etymology": "From Greek Orion, the hunter constellation",
+    "meaning": "Rising in the sky; hunter",
+    "hiddenMeaning": "Stars mapped onto a boy",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "hugo",
+    "name": "Hugo",
+    "gender": "boy",
+    "origins": [
+      "German",
+      "French",
+      "Spanish"
+    ],
+    "themes": [
+      "Wisdom",
+      "Short & sweet"
+    ],
+    "etymology": "From Germanic hug",
+    "meaning": "Mind; spirit; heart",
+    "hiddenMeaning": "Intellectual warmth with continental flair",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "otto",
+    "name": "Otto",
+    "gender": "boy",
+    "origins": [
+      "German",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "From Old High German ot",
+    "meaning": "Wealth; fortune",
+    "hiddenMeaning": "Palindrome power; vintage rebound",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "max",
+    "name": "Max",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Strength",
+      "Short & sweet"
+    ],
+    "etymology": "Short for Maximilian from Latin maximus",
+    "meaning": "Greatest",
+    "hiddenMeaning": "Maximum personality, minimum letters",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "louis",
+    "name": "Louis",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Royalty"
+    ],
+    "etymology": "From Germanic Hludwig: fame + warrior",
+    "meaning": "Famous warrior",
+    "hiddenMeaning": "French court polish",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "charles",
+    "name": "Charles",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "From Germanic Karl",
+    "meaning": "Free man",
+    "hiddenMeaning": "Royal without pretension",
+    "syllables": 1,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "george",
+    "name": "George",
+    "gender": "boy",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Royalty"
+    ],
+    "etymology": "From Greek Georgios: ge + ergon",
+    "meaning": "Farmer; earth-worker",
+    "hiddenMeaning": "Grounded nobility",
+    "syllables": 1,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "edward",
+    "name": "Edward",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Vintage"
+    ],
+    "etymology": "From Old English ēad + weard",
+    "meaning": "Wealthy guardian",
+    "hiddenMeaning": "Steady English oak",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "frederick",
+    "name": "Frederick",
+    "gender": "boy",
+    "origins": [
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Wisdom"
+    ],
+    "etymology": "From Germanic Fridurich: peace + ruler",
+    "meaning": "Peaceful ruler",
+    "hiddenMeaning": "Diplomacy crowned",
+    "syllables": 3,
+    "length": 9,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "august",
+    "name": "August",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Vintage",
+      "Nature"
+    ],
+    "etymology": "From Latin augustus",
+    "meaning": "Venerable; majestic",
+    "hiddenMeaning": "Late-summer grandeur",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "vincent",
+    "name": "Vincent",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "French",
+      "English"
+    ],
+    "themes": [
+      "Strength",
+      "Grace"
+    ],
+    "etymology": "From Latin Vincentius from vincere",
+    "meaning": "Conquering",
+    "hiddenMeaning": "Art and grit in one breath",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "adrian",
+    "name": "Adrian",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "English",
+      "Spanish"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "From Latin Hadrianus, of Hadria",
+    "meaning": "From Hadria; dark one",
+    "hiddenMeaning": "Mediterranean dusk",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "marcus",
+    "name": "Marcus",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Latin Marcus, related to Mars",
+    "meaning": "Dedicated to Mars",
+    "hiddenMeaning": "Roman discipline, modern ease",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "roman",
+    "name": "Roman",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "English",
+      "Slavic"
+    ],
+    "themes": [
+      "Strength",
+      "Modern"
+    ],
+    "etymology": "From Latin Romanus",
+    "meaning": "Citizen of Rome",
+    "hiddenMeaning": "Empire energy, softened",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "cassian",
+    "name": "Cassian",
+    "gender": "boy",
+    "origins": [
+      "Latin"
+    ],
+    "themes": [
+      "Unique",
+      "Grace"
+    ],
+    "etymology": "From Latin Cassianus",
+    "meaning": "Hollow; empty of vanity",
+    "hiddenMeaning": "Monastic calm with edge",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "cyrus",
+    "name": "Cyrus",
+    "gender": "boy",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Strength",
+      "Unique"
+    ],
+    "etymology": "From Old Persian Kūrush",
+    "meaning": "Sun; throne",
+    "hiddenMeaning": "Ancient kingship reframed",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "From Persian via French Gaspard",
+    "meaning": "Treasurer; spotted stone",
+    "hiddenMeaning": "Gemstone warmth",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "tobias",
+    "name": "Tobias",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Greek",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Toviyyah",
+    "meaning": "God is good",
+    "hiddenMeaning": "Gentle goodness with European flair",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "simon",
+    "name": "Simon",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "From Hebrew Shimʿon",
+    "meaning": "He has heard",
+    "hiddenMeaning": "Listening made into a name",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "patrick",
+    "name": "Patrick",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "Irish",
+      "English"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Latin Patricius",
+    "meaning": "Nobleman",
+    "hiddenMeaning": "Irish saint's steadfastness",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "declan",
+    "name": "Declan",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Irish Declán",
+    "meaning": "Full of goodness",
+    "hiddenMeaning": "Coastal Irish warmth",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "connor",
+    "name": "Connor",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Irish Conchobhar",
+    "meaning": "Lover of hounds; high will",
+    "hiddenMeaning": "Loyal fire",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "liam",
+    "name": "Liam",
+    "gender": "boy",
+    "origins": [
+      "Irish",
+      "English"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Strength"
+    ],
+    "etymology": "Short form of Irish Uilliam (William)",
+    "meaning": "Resolute protector",
+    "hiddenMeaning": "Irish William, distilled",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "sean",
+    "name": "Sean",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Short & sweet"
+    ],
+    "etymology": "Irish form of John from Hebrew Yochanan",
+    "meaning": "God is gracious",
+    "hiddenMeaning": "Simple Irish grace",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "aidan",
+    "name": "Aidan",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "etymology": "From Irish Aodhán, little fire",
+    "meaning": "Little fire",
+    "hiddenMeaning": "A spark that lasts",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "brennan",
+    "name": "Brennan",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Irish Ó Braonáin",
+    "meaning": "Sorrow; moisture; descendant of Braonán",
+    "hiddenMeaning": "Rain-softened resolve",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ewan",
+    "name": "Ewan",
+    "gender": "boy",
+    "origins": [
+      "Scottish"
+    ],
+    "themes": [
+      "Nature"
+    ],
+    "etymology": "Scottish form of Eugene / Eòghann",
+    "meaning": "Born of the yew; well-born",
+    "hiddenMeaning": "Highland green",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "hamish",
+    "name": "Hamish",
+    "gender": "boy",
+    "origins": [
+      "Scottish"
+    ],
+    "themes": [
+      "Unique"
+    ],
+    "etymology": "Scottish form of James",
+    "meaning": "Supplanter",
+    "hiddenMeaning": "James in a kilt",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "alasdair",
+    "name": "Alasdair",
+    "gender": "boy",
+    "origins": [
+      "Scottish",
+      "Greek"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "Scottish Gaelic form of Alexander",
+    "meaning": "Defender of men",
+    "hiddenMeaning": "Alexander with mist on the hills",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "gareth",
+    "name": "Gareth",
+    "gender": "boy",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Strength",
+      "Mythology"
+    ],
+    "etymology": "From Welsh; Arthurian knight",
+    "meaning": "Gentle; modest",
+    "hiddenMeaning": "Knightly courtesy",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "dylan",
+    "name": "Dylan",
+    "gender": "boy",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Nature"
+    ],
+    "etymology": "From Welsh dy + llanw",
+    "meaning": "Son of the sea; great tide",
+    "hiddenMeaning": "Welsh poetry and salt air",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "gideon",
+    "name": "Gideon",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Strength"
+    ],
+    "etymology": "From Hebrew Gidʿon",
+    "meaning": "Hewer; feller",
+    "hiddenMeaning": "Underdog courage",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "jonah",
+    "name": "Jonah",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Nature"
+    ],
+    "etymology": "From Hebrew Yonah",
+    "meaning": "Dove",
+    "hiddenMeaning": "Reluctant prophet; soft landing",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "micah",
+    "name": "Micah",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom",
+      "Short & sweet"
+    ],
+    "etymology": "From Hebrew Mikhah",
+    "meaning": "Who is like Yah?",
+    "hiddenMeaning": "Prophetic brevity",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "malachi",
+    "name": "Malachi",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Light"
+    ],
+    "etymology": "From Hebrew Malʾakhi",
+    "meaning": "My messenger",
+    "hiddenMeaning": "News that matters",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "xavier",
+    "name": "Xavier",
+    "gender": "boy",
+    "origins": [
+      "Spanish",
+      "Arabic"
+    ],
+    "themes": [
+      "Unique",
+      "Light"
+    ],
+    "etymology": "From Basque etxe berri via St. Francis Xavier",
+    "meaning": "New house",
+    "hiddenMeaning": "Sharp consonants; fresh start",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "rafael",
+    "name": "Rafael",
+    "gender": "boy",
+    "origins": [
+      "Hebrew",
+      "Spanish",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Refaʾel",
+    "meaning": "God has healed",
+    "hiddenMeaning": "Art and healing braided",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "diego",
+    "name": "Diego",
+    "gender": "boy",
+    "origins": [
+      "Spanish"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "Possibly from Santiago / Didacus",
+    "meaning": "Supplanter; teaching",
+    "hiddenMeaning": "Spanish sun and stride",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "santiago",
+    "name": "Santiago",
+    "gender": "boy",
+    "origins": [
+      "Spanish"
+    ],
+    "themes": [
+      "Biblical"
+    ],
+    "etymology": "Spanish for Saint James",
+    "meaning": "Saint James",
+    "hiddenMeaning": "Pilgrim roads and devotion",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "emil",
+    "name": "Emil",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "German",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Grace",
+      "Vintage"
+    ],
+    "etymology": "From Latin Aemilius",
+    "meaning": "Rival; eager",
+    "hiddenMeaning": "Northern European quiet chic",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "lars",
+    "name": "Lars",
+    "gender": "boy",
+    "origins": [
+      "Scandinavian",
+      "Latin"
+    ],
+    "themes": [
+      "Short & sweet"
+    ],
+    "etymology": "Scandinavian form of Laurence",
+    "meaning": "From Laurentum; laurel",
+    "hiddenMeaning": "Nordic brevity",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "soren",
+    "name": "Soren",
+    "gender": "boy",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Wisdom",
+      "Unique"
+    ],
+    "etymology": "From Danish Søren, from Severinus",
+    "meaning": "Severe; stern",
+    "hiddenMeaning": "Philosopher's name with soft edges",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "bjorn",
+    "name": "Bjorn",
+    "gender": "boy",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Strength",
+      "Nature"
+    ],
+    "etymology": "From Old Norse bjǫrn",
+    "meaning": "Bear",
+    "hiddenMeaning": "Northern wild strength",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "erik",
+    "name": "Erik",
+    "gender": "boy",
+    "origins": [
+      "Scandinavian",
+      "German"
+    ],
+    "themes": [
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "From Old Norse Eiríkr: ei + ríkr",
+    "meaning": "Ever ruler; alone ruler",
+    "hiddenMeaning": "Viking clarity",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "magnus",
+    "name": "Magnus",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Strength",
+      "Royalty"
+    ],
+    "etymology": "From Latin magnus",
+    "meaning": "Great",
+    "hiddenMeaning": "Grandeur without apology",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "nikolai",
+    "name": "Nikolai",
+    "gender": "boy",
+    "origins": [
+      "Slavic",
+      "Greek"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "etymology": "Slavic form of Nicholas",
+    "meaning": "Victory of the people",
+    "hiddenMeaning": "Eastern European elegance",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "dmitri",
+    "name": "Dmitri",
+    "gender": "boy",
+    "origins": [
+      "Slavic",
+      "Greek"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Greek Demetrios, of Demeter",
+    "meaning": "Follower of Demeter",
+    "hiddenMeaning": "Earth and empire",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "ivan",
+    "name": "Ivan",
+    "gender": "boy",
+    "origins": [
+      "Slavic",
+      "Hebrew"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "Slavic form of John",
+    "meaning": "God is gracious",
+    "hiddenMeaning": "Stark Slavic grace",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "alexei",
+    "name": "Alexei",
+    "gender": "boy",
+    "origins": [
+      "Slavic",
+      "Greek"
+    ],
+    "themes": [
+      "Wisdom"
+    ],
+    "etymology": "Russian form of Alexius / Alexander",
+    "meaning": "Defender; helper",
+    "hiddenMeaning": "Softened Slavic scholarship",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "kenji",
+    "name": "Kenji",
+    "gender": "boy",
+    "origins": [
+      "Japanese"
+    ],
+    "themes": [
+      "Wisdom",
+      "Strength"
+    ],
+    "etymology": "Japanese: ken (strong/wise) + ji (second son/govern)",
+    "meaning": "Strong and wise; second son",
+    "hiddenMeaning": "Precision and quiet power",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "hiro",
+    "name": "Hiro",
+    "gender": "boy",
+    "origins": [
+      "Japanese"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Strength"
+    ],
+    "etymology": "Japanese: hiro (abundant/generous/wide)",
+    "meaning": "Abundant; generous",
+    "hiddenMeaning": "Wide-hearted brevity",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ravi",
+    "name": "Ravi",
+    "gender": "boy",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Light",
+      "Short & sweet"
+    ],
+    "etymology": "From Sanskrit ravi",
+    "meaning": "Sun",
+    "hiddenMeaning": "Daybreak in two syllables",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "arjun",
+    "name": "Arjun",
+    "gender": "boy",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Strength",
+      "Mythology"
+    ],
+    "etymology": "From Sanskrit Arjuna",
+    "meaning": "Bright; white; clear",
+    "hiddenMeaning": "Epic archer's clarity",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "vikram",
+    "name": "Vikram",
+    "gender": "boy",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Strength",
+      "Royalty"
+    ],
+    "etymology": "From Sanskrit vikrama",
+    "meaning": "Valour; stride",
+    "hiddenMeaning": "Heroic step forward",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "omar",
+    "name": "Omar",
+    "gender": "boy",
+    "origins": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "themes": [
+      "Wisdom"
+    ],
+    "etymology": "From Arabic ʿUmar",
+    "meaning": "Flourishing; long-lived",
+    "hiddenMeaning": "Desert longevity and wit",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "yusuf",
+    "name": "Yusuf",
+    "gender": "boy",
+    "origins": [
+      "Arabic",
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom"
+    ],
+    "etymology": "Arabic form of Joseph",
+    "meaning": "He will add",
+    "hiddenMeaning": "Qur'anic beauty; dreamer's grace",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "idris",
+    "name": "Idris",
+    "gender": "boy",
+    "origins": [
+      "Arabic",
+      "Welsh"
+    ],
+    "themes": [
+      "Wisdom"
+    ],
+    "etymology": "Arabic: interpreter; Welsh: ardent lord",
+    "meaning": "Studious; fiery lord",
+    "hiddenMeaning": "Scholar and spark across cultures",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "zayn",
+    "name": "Zayn",
+    "gender": "boy",
+    "origins": [
+      "Arabic"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Arabic zayn",
+    "meaning": "Beauty; grace",
+    "hiddenMeaning": "Sleek modern elegance",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "kwame",
+    "name": "Kwame",
+    "gender": "boy",
+    "origins": [
+      "African"
+    ],
+    "themes": [
+      "Unique"
+    ],
+    "etymology": "Akan name for Saturday-born boys",
+    "meaning": "Born on Saturday",
+    "hiddenMeaning": "Day-named destiny",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "jabari",
+    "name": "Jabari",
+    "gender": "boy",
+    "origins": [
+      "African"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "From Swahili jabari",
+    "meaning": "Brave; fearless",
+    "hiddenMeaning": "Courage spoken aloud",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "malik",
+    "name": "Malik",
+    "gender": "boy",
+    "origins": [
+      "Arabic",
+      "African"
+    ],
+    "themes": [
+      "Royalty"
+    ],
+    "etymology": "From Arabic malik",
+    "meaning": "King",
+    "hiddenMeaning": "Royalty without the parade",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "bodhi",
+    "name": "Bodhi",
+    "gender": "boy",
+    "origins": [
+      "Indian",
+      "English"
+    ],
+    "themes": [
+      "Wisdom",
+      "Nature",
+      "Modern"
+    ],
+    "etymology": "From Sanskrit bodhi",
+    "meaning": "Awakening; enlightenment",
+    "hiddenMeaning": "Quiet clarity under a tree",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "reed",
+    "name": "Reed",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Old English hreod",
+    "meaning": "Red-haired; reed plant",
+    "hiddenMeaning": "Tall grass by the water",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "forrest",
+    "name": "Forrest",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "From Old French forest",
+    "meaning": "Of the woods",
+    "hiddenMeaning": "Deep green quiet",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "clay",
+    "name": "Clay",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Old English clǣg",
+    "meaning": "Clay; earth",
+    "hiddenMeaning": "Hands-in-the-earth honesty",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "heath",
+    "name": "Heath",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "From Old English hǣth",
+    "meaning": "Heathland",
+    "hiddenMeaning": "Open moor and wind",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "sterling",
+    "name": "Sterling",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Unique"
+    ],
+    "etymology": "From Old English steorra / Middle English sterling",
+    "meaning": "Little star; of high quality",
+    "hiddenMeaning": "Silver-standard character",
+    "syllables": 2,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "quentin",
+    "name": "Quentin",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "French"
+    ],
+    "themes": [
+      "Unique",
+      "Vintage"
+    ],
+    "etymology": "From Latin Quintinus",
+    "meaning": "Fifth",
+    "hiddenMeaning": "Literary cool; fifth-born energy",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "thaddeus",
+    "name": "Thaddeus",
+    "gender": "boy",
+    "origins": [
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Unique",
+      "Grace"
+    ],
+    "etymology": "From Aramaic Taddai",
+    "meaning": "Heart; courageous",
+    "hiddenMeaning": "Apostolic rarity",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "benedict",
+    "name": "Benedict",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Wisdom",
+      "Vintage"
+    ],
+    "etymology": "From Latin Benedictus",
+    "meaning": "Blessed",
+    "hiddenMeaning": "Monkish kindness",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "clement",
+    "name": "Clement",
+    "gender": "boy",
+    "origins": [
+      "Latin",
+      "French",
+      "English"
+    ],
+    "themes": [
+      "Grace",
+      "Vintage"
+    ],
+    "etymology": "From Latin Clemens",
+    "meaning": "Merciful; gentle",
+    "hiddenMeaning": "Soft strength with history",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "percival",
+    "name": "Percival",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "English",
+      "Welsh"
+    ],
+    "themes": [
+      "Mythology",
+      "Royalty",
+      "Unique"
+    ],
+    "etymology": "From Old French Perceval; Arthurian",
+    "meaning": "Pierces the valley",
+    "hiddenMeaning": "Quest-minded knight",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "tristan",
+    "name": "Tristan",
+    "gender": "boy",
+    "origins": [
+      "Celtic",
+      "French",
+      "Welsh"
+    ],
+    "themes": [
+      "Mythology",
+      "Grace"
+    ],
+    "etymology": "From Celtic / Pictish; Tristan and Isolde",
+    "meaning": "Tumult; sorrow (folk etymology)",
+    "hiddenMeaning": "Romantic legend, tempered",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "lorenzo",
+    "name": "Lorenzo",
+    "gender": "boy",
+    "origins": [
+      "Italian",
+      "Latin"
+    ],
+    "themes": [
+      "Grace",
+      "Royalty"
+    ],
+    "etymology": "Italian form of Laurence",
+    "meaning": "From Laurentum; crowned with laurel",
+    "hiddenMeaning": "Renaissance swagger",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "enzo",
+    "name": "Enzo",
+    "gender": "boy",
+    "origins": [
+      "Italian",
+      "German"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Short for Lorenzo / Heinz related",
+    "meaning": "Ruler of the home; laurel",
+    "hiddenMeaning": "Italian zip",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "marco",
+    "name": "Marco",
+    "gender": "boy",
+    "origins": [
+      "Italian",
+      "Latin",
+      "Spanish"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "Italian form of Marcus",
+    "meaning": "Dedicated to Mars",
+    "hiddenMeaning": "Explorer's stride",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "paolo",
+    "name": "Paolo",
+    "gender": "boy",
+    "origins": [
+      "Italian",
+      "Latin"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "Italian form of Paul from Latin Paulus",
+    "meaning": "Small; humble",
+    "hiddenMeaning": "Italian humility with style",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "andre",
+    "name": "Andre",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "Greek"
+    ],
+    "themes": [
+      "Strength"
+    ],
+    "etymology": "French form of Andrew from Greek Andreas",
+    "meaning": "Manly; brave",
+    "hiddenMeaning": "Parisian ease",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "remy",
+    "name": "Remy",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Grace"
+    ],
+    "etymology": "From Latin Remigius",
+    "meaning": "Oarsman",
+    "hiddenMeaning": "Culinary cool and river skill",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "pascal",
+    "name": "Pascal",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Wisdom",
+      "Unique"
+    ],
+    "etymology": "From Latin Paschalis",
+    "meaning": "Of Easter; relating to Passover",
+    "hiddenMeaning": "Spring resurrection energy",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "henri",
+    "name": "Henri",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Royalty"
+    ],
+    "etymology": "French form of Henry",
+    "meaning": "Ruler of the home",
+    "hiddenMeaning": "Henry in a beret",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "cole",
+    "name": "Cole",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Old English cola / Nicholas short form",
+    "meaning": "Charcoal; victory of the people",
+    "hiddenMeaning": "Cool charcoal brevity",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "grant",
+    "name": "Grant",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "Scottish",
+      "French"
+    ],
+    "themes": [
+      "Strength",
+      "Short & sweet"
+    ],
+    "etymology": "From Old French grand / surname",
+    "meaning": "Great; tall",
+    "hiddenMeaning": "Understated largeness",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "dean",
+    "name": "Dean",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Old English denu / Latin decanus",
+    "meaning": "Valley; church official",
+    "hiddenMeaning": "Valley quiet and leadership",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "clark",
+    "name": "Clark",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Wisdom"
+    ],
+    "etymology": "From Latin clericus via surname",
+    "meaning": "Clerk; scholar",
+    "hiddenMeaning": "Quiet competence",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "harvey",
+    "name": "Harvey",
+    "gender": "boy",
+    "origins": [
+      "French",
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Strength"
+    ],
+    "etymology": "From Breton Haerviu: battle + worthy",
+    "meaning": "Battle worthy",
+    "hiddenMeaning": "Vintage comeback kid",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "walter",
+    "name": "Walter",
+    "gender": "boy",
+    "origins": [
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Strength"
+    ],
+    "etymology": "From Germanic Waldhar: rule + army",
+    "meaning": "Commander of the army",
+    "hiddenMeaning": "Grandfather chic revived",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "stanley",
+    "name": "Stanley",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Nature"
+    ],
+    "etymology": "From Old English stan + lēah",
+    "meaning": "Stone clearing",
+    "hiddenMeaning": "Solid ground cleared for living",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "franklin",
+    "name": "Franklin",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Wisdom"
+    ],
+    "etymology": "From Middle English frankeleyn",
+    "meaning": "Free landholder",
+    "hiddenMeaning": "Self-made dignity",
+    "syllables": 2,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "elliot",
+    "name": "Elliot",
+    "gender": "boy",
+    "origins": [
+      "English",
+      "French",
+      "Hebrew"
+    ],
+    "themes": [
+      "Wisdom",
+      "Modern"
+    ],
+    "etymology": "From Elijah via Old French",
+    "meaning": "My God is Yahweh",
+    "hiddenMeaning": "Soft biblical scholarship",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "graham",
+    "name": "Graham",
+    "gender": "boy",
+    "origins": [
+      "Scottish",
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Strength"
+    ],
+    "etymology": "From Scottish surname / Old English grand + ham",
+    "meaning": "Gravelly homestead",
+    "hiddenMeaning": "Steady Scottish stone",
+    "syllables": 1,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "nolan",
+    "name": "Nolan",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Modern",
+      "Strength"
+    ],
+    "etymology": "From Irish Ó Nualláin",
+    "meaning": "Champion; famous",
+    "hiddenMeaning": "Irish fame, understated",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ronan",
+    "name": "Ronan",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Nature",
+      "Strength"
+    ],
+    "etymology": "From Irish Rónán",
+    "meaning": "Little seal",
+    "hiddenMeaning": "Coastal Irish charm",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "sullivan",
+    "name": "Sullivan",
+    "gender": "boy",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Unique",
+      "Vintage"
+    ],
+    "etymology": "From Irish Ó Súilleabháin",
+    "meaning": "Dark-eyed; hawk-eyed",
+    "hiddenMeaning": "Irish surname elegance",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "beckett",
+    "name": "Beckett",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Modern",
+      "Unique"
+    ],
+    "etymology": "From Old English beo + cot",
+    "meaning": "Bee cottage; brook",
+    "hiddenMeaning": "Literary surname cool",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "archer",
+    "name": "Archer",
+    "gender": "boy",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Strength",
+      "Modern"
+    ],
+    "etymology": "English occupational surname",
+    "meaning": "Bowman",
+    "hiddenMeaning": "Aim and intention",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "olivia",
+    "name": "Olivia",
+    "gender": "girl",
+    "origins": [
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "Feminine of Oliver from Latin oliva",
+    "meaning": "Olive tree",
+    "hiddenMeaning": "Peace that wears well",
+    "syllables": 4,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "emma",
+    "name": "Emma",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Germanic ermen",
+    "meaning": "Universal; whole",
+    "hiddenMeaning": "Complete in four letters",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "charlotte",
+    "name": "Charlotte",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Royalty",
+      "Grace"
+    ],
+    "etymology": "French feminine of Charles",
+    "meaning": "Free woman",
+    "hiddenMeaning": "Royal without the fuss",
+    "syllables": 3,
+    "length": 9,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "amelia",
+    "name": "Amelia",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Grace",
+      "Strength"
+    ],
+    "etymology": "From Germanic Amalia / Latin Aemilia",
+    "meaning": "Work; industrious",
+    "hiddenMeaning": "Aviator spirit in soft clothes",
+    "syllables": 4,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "sophia",
+    "name": "Sophia",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Wisdom",
+      "Grace"
+    ],
+    "etymology": "From Greek sophia",
+    "meaning": "Wisdom",
+    "hiddenMeaning": "Philosophy made tender",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "isabella",
+    "name": "Isabella",
+    "gender": "girl",
+    "origins": [
+      "Spanish",
+      "Italian",
+      "Hebrew"
+    ],
+    "themes": [
+      "Royalty",
+      "Grace"
+    ],
+    "etymology": "Spanish/Italian form of Elizabeth",
+    "meaning": "God is my oath",
+    "hiddenMeaning": "Romance-language grandeur",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "mia",
+    "name": "Mia",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian",
+      "Italian",
+      "Hebrew"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Short for Maria / Scandinavian mine",
+    "meaning": "Mine; beloved; wished-for child",
+    "hiddenMeaning": "Intimate and international",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "ava",
+    "name": "Ava",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Grace",
+      "Nature"
+    ],
+    "etymology": "Possibly from Latin avis or Germanic avi",
+    "meaning": "Bird; life; desired",
+    "hiddenMeaning": "Flight in three letters",
+    "syllables": 2,
+    "length": 3,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "evelyn",
+    "name": "Evelyn",
+    "gender": "girl",
+    "origins": [
+      "English",
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Vintage",
+      "Grace",
+      "Nature"
+    ],
+    "etymology": "From Norman Aveline / Old French aveline",
+    "meaning": "Desired; hazelnut",
+    "hiddenMeaning": "Vintage orchard sweetness",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "harper",
+    "name": "Harper",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Modern",
+      "Unique"
+    ],
+    "etymology": "From English occupational surname",
+    "meaning": "Harp player",
+    "hiddenMeaning": "Music and frontier grit",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "eleanor",
+    "name": "Eleanor",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Vintage",
+      "Light"
+    ],
+    "etymology": "From Occitan Aliénor / possibly Greek light",
+    "meaning": "Bright one; the other Aenor",
+    "hiddenMeaning": "Queens and lamp-light",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "grace",
+    "name": "Grace",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Grace",
+      "Biblical",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin gratia",
+    "meaning": "Favor; elegance",
+    "hiddenMeaning": "Virtue name that never ages",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "chloe",
+    "name": "Chloe",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Nature",
+      "Light"
+    ],
+    "etymology": "From Greek khloē",
+    "meaning": "Green shoot; blooming",
+    "hiddenMeaning": "Spring in a name",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "zoe",
+    "name": "Zoe",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Light",
+      "Short & sweet"
+    ],
+    "etymology": "From Greek zōē",
+    "meaning": "Life",
+    "hiddenMeaning": "Vitality distilled",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "lily",
+    "name": "Lily",
+    "gender": "girl",
+    "origins": [
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Nature",
+      "Light",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin lilium / English flower",
+    "meaning": "Lily flower",
+    "hiddenMeaning": "White petals and clear intention",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "rose",
+    "name": "Rose",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin rosa",
+    "meaning": "Rose flower",
+    "hiddenMeaning": "Thorns optional; beauty not",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "violet",
+    "name": "Violet",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "From Latin viola",
+    "meaning": "Purple flower",
+    "hiddenMeaning": "Shy color, strong presence",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ivy",
+    "name": "Ivy",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Old English ifig",
+    "meaning": "Ivy plant",
+    "hiddenMeaning": "Clinging loyalty, evergreen",
+    "syllables": 2,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "hazel",
+    "name": "Hazel",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "From Old English hæsel",
+    "meaning": "Hazel tree",
+    "hiddenMeaning": "Nut-brown warmth",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "willow",
+    "name": "Willow",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "From Old English welig",
+    "meaning": "Willow tree",
+    "hiddenMeaning": "Flexible strength by the water",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "gender": "girl",
+    "origins": [
+      "Latin"
+    ],
+    "themes": [
+      "Mythology",
+      "Light",
+      "Nature"
+    ],
+    "etymology": "From Latin aurora",
+    "meaning": "Dawn",
+    "hiddenMeaning": "Northern lights and first light",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "luna",
+    "name": "Luna",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "Spanish",
+      "Italian"
+    ],
+    "themes": [
+      "Mythology",
+      "Light",
+      "Nature"
+    ],
+    "etymology": "From Latin luna",
+    "meaning": "Moon",
+    "hiddenMeaning": "Night sky made gentle",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "stella",
+    "name": "Stella",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "Italian"
+    ],
+    "themes": [
+      "Light",
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "From Latin stella",
+    "meaning": "Star",
+    "hiddenMeaning": "Starlight with Italian vowels",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "celeste",
+    "name": "Celeste",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "French"
+    ],
+    "themes": [
+      "Light",
+      "Grace"
+    ],
+    "etymology": "From Latin caelestis",
+    "meaning": "Heavenly",
+    "hiddenMeaning": "Sky-blue elegance",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "iris",
+    "name": "Iris",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Nature",
+      "Mythology",
+      "Short & sweet"
+    ],
+    "etymology": "From Greek iris",
+    "meaning": "Rainbow; messenger goddess",
+    "hiddenMeaning": "Color bridging earth and sky",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "freya",
+    "name": "Freya",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Mythology",
+      "Strength"
+    ],
+    "etymology": "From Old Norse Freyja",
+    "meaning": "Lady; noblewoman",
+    "hiddenMeaning": "Love and battle in one goddess",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "astrid",
+    "name": "Astrid",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Strength",
+      "Light"
+    ],
+    "etymology": "From Old Norse Ástríðr: ást + fríðr",
+    "meaning": "Divine strength; beautiful love",
+    "hiddenMeaning": "Nordic steel and affection",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ingrid",
+    "name": "Ingrid",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Strength",
+      "Vintage"
+    ],
+    "etymology": "From Old Norse Ingiríðr",
+    "meaning": "Ing's beauty; fair",
+    "hiddenMeaning": "Frozen beauty that thaws warm",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "sigrid",
+    "name": "Sigrid",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Vintage"
+    ],
+    "etymology": "From Old Norse Sigríðr: sigr + fríðr",
+    "meaning": "Beautiful victory",
+    "hiddenMeaning": "Win without losing softness",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "nora",
+    "name": "Nora",
+    "gender": "girl",
+    "origins": [
+      "Irish",
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "Short for Honora / Eleanor",
+    "meaning": "Honor; light",
+    "hiddenMeaning": "Compact dignity",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "maeve",
+    "name": "Maeve",
+    "gender": "girl",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Mythology",
+      "Strength",
+      "Short & sweet"
+    ],
+    "etymology": "From Irish Medb",
+    "meaning": "She who intoxicates; the cause of great joy",
+    "hiddenMeaning": "Warrior queen energy",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "saoirse",
+    "name": "Saoirse",
+    "gender": "girl",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Unique",
+      "Strength"
+    ],
+    "etymology": "From Irish saoirse",
+    "meaning": "Freedom",
+    "hiddenMeaning": "Liberation spoken in Gaelic",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "siobhan",
+    "name": "Siobhan",
+    "gender": "girl",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "Irish form of Joan / Jeanne",
+    "meaning": "God is gracious",
+    "hiddenMeaning": "Irish Joan with music in it",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "niamh",
+    "name": "Niamh",
+    "gender": "girl",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Mythology",
+      "Light"
+    ],
+    "etymology": "From Irish niamh",
+    "meaning": "Bright; radiant",
+    "hiddenMeaning": "Otherworld brightness",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "aoife",
+    "name": "Aoife",
+    "gender": "girl",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Mythology",
+      "Strength"
+    ],
+    "etymology": "From Irish aoibh",
+    "meaning": "Beauty; radiance",
+    "hiddenMeaning": "Warrior beauty of Irish legend",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "fiona",
+    "name": "Fiona",
+    "gender": "girl",
+    "origins": [
+      "Scottish",
+      "Irish"
+    ],
+    "themes": [
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "From Gaelic fionn",
+    "meaning": "Fair; white",
+    "hiddenMeaning": "Highland fairness",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "isla",
+    "name": "Isla",
+    "gender": "girl",
+    "origins": [
+      "Scottish",
+      "Spanish"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From Scottish island / Spanish isla",
+    "meaning": "Island",
+    "hiddenMeaning": "Sea-girt calm",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "maisie",
+    "name": "Maisie",
+    "gender": "girl",
+    "origins": [
+      "Scottish",
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "Scottish diminutive of Margaret",
+    "meaning": "Pearl",
+    "hiddenMeaning": "Cheerful Scottish pearl",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ailsa",
+    "name": "Ailsa",
+    "gender": "girl",
+    "origins": [
+      "Scottish"
+    ],
+    "themes": [
+      "Nature",
+      "Unique"
+    ],
+    "etymology": "From Ailsa Craig, Scottish island rock",
+    "meaning": "Elf victory; rocky isle",
+    "hiddenMeaning": "Sea rock and mist",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "gwendolyn",
+    "name": "Gwendolyn",
+    "gender": "girl",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Mythology",
+      "Grace"
+    ],
+    "etymology": "From Welsh gwen + dolen",
+    "meaning": "White ring; blessed bow",
+    "hiddenMeaning": "Arthurian white-and-gold",
+    "syllables": 3,
+    "length": 9,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "bronwyn",
+    "name": "Bronwyn",
+    "gender": "girl",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "From Welsh bron + gwyn",
+    "meaning": "Fair breast; white raven",
+    "hiddenMeaning": "Welsh fairness",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "carys",
+    "name": "Carys",
+    "gender": "girl",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet"
+    ],
+    "etymology": "From Welsh caru",
+    "meaning": "Love",
+    "hiddenMeaning": "Love said the Welsh way",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "elowen",
+    "name": "Elowen",
+    "gender": "girl",
+    "origins": [
+      "Celtic"
+    ],
+    "themes": [
+      "Nature",
+      "Unique"
+    ],
+    "etymology": "From Cornish elowen",
+    "meaning": "Elm tree",
+    "hiddenMeaning": "Cornish woodland quiet",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "seren",
+    "name": "Seren",
+    "gender": "girl",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Light",
+      "Short & sweet"
+    ],
+    "etymology": "From Welsh seren",
+    "meaning": "Star",
+    "hiddenMeaning": "Welsh night sky",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "claire",
+    "name": "Claire",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Light",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin clarus",
+    "meaning": "Clear; bright",
+    "hiddenMeaning": "Clarity without sharp edges",
+    "syllables": 1,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "camille",
+    "name": "Camille",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "From Latin Camillus",
+    "meaning": "Young ceremonial attendant",
+    "hiddenMeaning": "Parisian restraint",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "elodie",
+    "name": "Elodie",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "From Germanic Aliodia / French Élodie",
+    "meaning": "Foreign wealth; marsh flower",
+    "hiddenMeaning": "Soft French vowels",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "colette",
+    "name": "Colette",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Greek"
+    ],
+    "themes": [
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "French diminutive of Nicole",
+    "meaning": "Victory of the people",
+    "hiddenMeaning": "Literary Paris in miniature",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "amelie",
+    "name": "Amelie",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "German",
+      "Latin"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "French form of Amelia",
+    "meaning": "Work; industrious",
+    "hiddenMeaning": "Whimsy with backbone",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "juliette",
+    "name": "Juliette",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Grace",
+      "Royalty"
+    ],
+    "etymology": "French diminutive of Julia",
+    "meaning": "Youthful",
+    "hiddenMeaning": "Balcony romance, tempered",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "margot",
+    "name": "Margot",
+    "gender": "girl",
+    "origins": [
+      "French"
+    ],
+    "themes": [
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "French diminutive of Margaret",
+    "meaning": "Pearl",
+    "hiddenMeaning": "French pearl with bite",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "solene",
+    "name": "Solene",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Unique",
+      "Light"
+    ],
+    "etymology": "From Latin sollemnis",
+    "meaning": "Solemn; religious",
+    "hiddenMeaning": "Quiet French solemnity",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "lucia",
+    "name": "Lucia",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "Italian",
+      "Spanish"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "etymology": "From Latin lux",
+    "meaning": "Light",
+    "hiddenMeaning": "Light across Romance languages",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "sofia",
+    "name": "Sofia",
+    "gender": "girl",
+    "origins": [
+      "Greek",
+      "Spanish",
+      "Italian"
+    ],
+    "themes": [
+      "Wisdom",
+      "Grace"
+    ],
+    "etymology": "Variant of Sophia",
+    "meaning": "Wisdom",
+    "hiddenMeaning": "Wisdom with a warmer spelling",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "valentina",
+    "name": "Valentina",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "Italian",
+      "Spanish"
+    ],
+    "themes": [
+      "Strength",
+      "Grace"
+    ],
+    "etymology": "From Latin valens",
+    "meaning": "Strong; healthy",
+    "hiddenMeaning": "Valentine's courage year-round",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "bianca",
+    "name": "Bianca",
+    "gender": "girl",
+    "origins": [
+      "Italian"
+    ],
+    "themes": [
+      "Light",
+      "Grace"
+    ],
+    "etymology": "From Italian bianco",
+    "meaning": "White; fair",
+    "hiddenMeaning": "Italian brightness",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "chiara",
+    "name": "Chiara",
+    "gender": "girl",
+    "origins": [
+      "Italian",
+      "Latin"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "etymology": "Italian form of Clara",
+    "meaning": "Clear; bright",
+    "hiddenMeaning": "Italian clarity",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "giulia",
+    "name": "Giulia",
+    "gender": "girl",
+    "origins": [
+      "Italian",
+      "Latin"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "Italian form of Julia",
+    "meaning": "Youthful; of the Julii",
+    "hiddenMeaning": "Roman roots, Italian music",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "elena",
+    "name": "Elena",
+    "gender": "girl",
+    "origins": [
+      "Greek",
+      "Spanish",
+      "Italian",
+      "Slavic"
+    ],
+    "themes": [
+      "Light"
+    ],
+    "etymology": "From Greek Helenē",
+    "meaning": "Torch; shining light",
+    "hiddenMeaning": "Light that travels well",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "carmen",
+    "name": "Carmen",
+    "gender": "girl",
+    "origins": [
+      "Spanish",
+      "Latin"
+    ],
+    "themes": [
+      "Unique",
+      "Strength"
+    ],
+    "etymology": "From Latin carmen / Our Lady of Mount Carmel",
+    "meaning": "Song; garden",
+    "hiddenMeaning": "Opera fire and sacred garden",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "catalina",
+    "name": "Catalina",
+    "gender": "girl",
+    "origins": [
+      "Spanish",
+      "Greek"
+    ],
+    "themes": [
+      "Royalty",
+      "Grace"
+    ],
+    "etymology": "Spanish form of Catherine",
+    "meaning": "Pure",
+    "hiddenMeaning": "Island and court elegance",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "paloma",
+    "name": "Paloma",
+    "gender": "girl",
+    "origins": [
+      "Spanish",
+      "Latin"
+    ],
+    "themes": [
+      "Nature"
+    ],
+    "etymology": "From Latin palumba",
+    "meaning": "Dove",
+    "hiddenMeaning": "Peace with Spanish warmth",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ines",
+    "name": "Ines",
+    "gender": "girl",
+    "origins": [
+      "Spanish",
+      "Greek"
+    ],
+    "themes": [
+      "Grace",
+      "Vintage"
+    ],
+    "etymology": "Spanish form of Agnes",
+    "meaning": "Pure; chaste; lamb",
+    "hiddenMeaning": "Spanish Agnes, sharpened",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "esperanza",
+    "name": "Esperanza",
+    "gender": "girl",
+    "origins": [
+      "Spanish"
+    ],
+    "themes": [
+      "Light",
+      "Unique"
+    ],
+    "etymology": "From Spanish esperanza",
+    "meaning": "Hope",
+    "hiddenMeaning": "Hope spoken aloud",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "ada",
+    "name": "Ada",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Wisdom",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Germanic adal / short for Adelaide",
+    "meaning": "Noble",
+    "hiddenMeaning": "Computing pioneer brevity",
+    "syllables": 2,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "greta",
+    "name": "Greta",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "Short for Margaret",
+    "meaning": "Pearl",
+    "hiddenMeaning": "Nordic-German grit",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "heidi",
+    "name": "Heidi",
+    "gender": "girl",
+    "origins": [
+      "German"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "Short for Adelheid",
+    "meaning": "Noble kind",
+    "hiddenMeaning": "Alpine meadows and grit",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "anneliese",
+    "name": "Anneliese",
+    "gender": "girl",
+    "origins": [
+      "German"
+    ],
+    "themes": [
+      "Grace",
+      "Vintage"
+    ],
+    "etymology": "Compound of Anna + Liese",
+    "meaning": "Grace + God is my oath",
+    "hiddenMeaning": "Layered German devotion",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "liesel",
+    "name": "Liesel",
+    "gender": "girl",
+    "origins": [
+      "German"
+    ],
+    "themes": [
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "German diminutive of Elizabeth",
+    "meaning": "God is my oath",
+    "hiddenMeaning": "Book-thief tenderness",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "thea",
+    "name": "Thea",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Short & sweet",
+      "Light"
+    ],
+    "etymology": "Short for Theodora / Greek thea",
+    "meaning": "Goddess; divine gift",
+    "hiddenMeaning": "Divine in three letters",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "penelope",
+    "name": "Penelope",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Wisdom"
+    ],
+    "etymology": "From Greek Pēnelopē",
+    "meaning": "Weaver; duck (folk)",
+    "hiddenMeaning": "Faithful cleverness",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "helena",
+    "name": "Helena",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Light",
+      "Royalty"
+    ],
+    "etymology": "From Greek Helenē",
+    "meaning": "Torch; shining light",
+    "hiddenMeaning": "Helen without the war",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "calliope",
+    "name": "Calliope",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Unique"
+    ],
+    "etymology": "From Greek Kalliope",
+    "meaning": "Beautiful voice",
+    "hiddenMeaning": "Muse of epic poetry",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "thalia",
+    "name": "Thalia",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Light"
+    ],
+    "etymology": "From Greek Thaleia",
+    "meaning": "To blossom; flourishing",
+    "hiddenMeaning": "Comedy muse; blooming joy",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "daphne",
+    "name": "Daphne",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Nature"
+    ],
+    "etymology": "From Greek daphnē",
+    "meaning": "Laurel tree",
+    "hiddenMeaning": "Mythic flight into green",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "phoebe",
+    "name": "Phoebe",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Light"
+    ],
+    "etymology": "From Greek phoibos",
+    "meaning": "Bright; pure",
+    "hiddenMeaning": "Titan brightness",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "athena",
+    "name": "Athena",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Wisdom",
+      "Strength"
+    ],
+    "etymology": "From Greek Athēnē",
+    "meaning": "Of Athens; goddess of wisdom",
+    "hiddenMeaning": "Owl-eyed strategy",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "artemis",
+    "name": "Artemis",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Nature",
+      "Strength"
+    ],
+    "etymology": "From Greek Artemis",
+    "meaning": "Goddess of the hunt and moon",
+    "hiddenMeaning": "Wild moon independence",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "hannah",
+    "name": "Hannah",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Channah",
+    "meaning": "Favor; grace",
+    "hiddenMeaning": "Prayer answered softly",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "sarah",
+    "name": "Sarah",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Royalty",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Sarah",
+    "meaning": "Princess",
+    "hiddenMeaning": "Matriarchal calm",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "rebecca",
+    "name": "Rebecca",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Rivqah",
+    "meaning": "To bind; captivating",
+    "hiddenMeaning": "Well-side kindness",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "rachel",
+    "name": "Rachel",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace",
+      "Nature"
+    ],
+    "etymology": "From Hebrew Rachel",
+    "meaning": "Ewe",
+    "hiddenMeaning": "Gentle flock loyalty",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "leah",
+    "name": "Leah",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace",
+      "Short & sweet"
+    ],
+    "etymology": "From Hebrew Leʾah",
+    "meaning": "Weary; wild cow (uncertain)",
+    "hiddenMeaning": "Tender perseverance",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "miriam",
+    "name": "Miriam",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom",
+      "Strength"
+    ],
+    "etymology": "From Hebrew Miryam",
+    "meaning": "Beloved; bitter; wished-for",
+    "hiddenMeaning": "Prophetess by the sea",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "esther",
+    "name": "Esther",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "From Persian star / Hebrew Hadassah",
+    "meaning": "Star; myrtle",
+    "hiddenMeaning": "Hidden courage crowned",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "ruth",
+    "name": "Ruth",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Hebrew Rut",
+    "meaning": "Companion; friend",
+    "hiddenMeaning": "Loyal gleaning love",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "naomi",
+    "name": "Naomi",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace",
+      "Nature"
+    ],
+    "etymology": "From Hebrew Naʿomi",
+    "meaning": "Pleasantness",
+    "hiddenMeaning": "Bitterness that turns sweet again",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "abigail",
+    "name": "Abigail",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom",
+      "Grace"
+    ],
+    "etymology": "From Hebrew ʾAvigayil",
+    "meaning": "Father's joy",
+    "hiddenMeaning": "Intelligent kindness",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "deborah",
+    "name": "Deborah",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Wisdom",
+      "Strength"
+    ],
+    "etymology": "From Hebrew Devorah",
+    "meaning": "Bee",
+    "hiddenMeaning": "Judge and prophetess; industrious",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "judith",
+    "name": "Judith",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Strength",
+      "Vintage"
+    ],
+    "etymology": "From Hebrew Yehudit",
+    "meaning": "Woman of Judea; praised",
+    "hiddenMeaning": "Courage with a sword of wit",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "susanna",
+    "name": "Susanna",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "Greek"
+    ],
+    "themes": [
+      "Biblical",
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Shoshannah",
+    "meaning": "Lily",
+    "hiddenMeaning": "Lily of testimony",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "noa",
+    "name": "Noa",
+    "gender": "girl",
+    "origins": [
+      "Hebrew"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Hebrew Noʿah (feminine)",
+    "meaning": "Motion; movement",
+    "hiddenMeaning": "Movement toward peace",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "talia",
+    "name": "Talia",
+    "gender": "girl",
+    "origins": [
+      "Hebrew"
+    ],
+    "themes": [
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Talya",
+    "meaning": "Dew of God",
+    "hiddenMeaning": "Morning dew blessing",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "yael",
+    "name": "Yael",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Strength",
+      "Short & sweet"
+    ],
+    "etymology": "From Hebrew Yaʿel",
+    "meaning": "Ibex; mountain goat",
+    "hiddenMeaning": "Sure-footed courage",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "aaliyah",
+    "name": "Aaliyah",
+    "gender": "girl",
+    "origins": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "themes": [
+      "Light",
+      "Grace"
+    ],
+    "etymology": "From Arabic ʿāliyah",
+    "meaning": "High; exalted",
+    "hiddenMeaning": "Rising voice and spirit",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "layla",
+    "name": "Layla",
+    "gender": "girl",
+    "origins": [
+      "Arabic"
+    ],
+    "themes": [
+      "Light",
+      "Nature"
+    ],
+    "etymology": "From Arabic layla",
+    "meaning": "Night",
+    "hiddenMeaning": "Night poetry and devotion",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "gender": "girl",
+    "origins": [
+      "Arabic",
+      "Hebrew",
+      "Spanish"
+    ],
+    "themes": [
+      "Light",
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Arabic zahr / Hebrew zerah",
+    "meaning": "Flower; bloom; seed",
+    "hiddenMeaning": "Bloom across languages",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "amira",
+    "name": "Amira",
+    "gender": "girl",
+    "origins": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "themes": [
+      "Royalty",
+      "Grace"
+    ],
+    "etymology": "From Arabic amīra",
+    "meaning": "Princess; leader",
+    "hiddenMeaning": "Leadership with softness",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "fatima",
+    "name": "Fatima",
+    "gender": "girl",
+    "origins": [
+      "Arabic"
+    ],
+    "themes": [
+      "Wisdom",
+      "Grace"
+    ],
+    "etymology": "From Arabic Fāṭimah",
+    "meaning": "One who abstains; captivating",
+    "hiddenMeaning": "Revered daughter; quiet power",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "samira",
+    "name": "Samira",
+    "gender": "girl",
+    "origins": [
+      "Arabic"
+    ],
+    "themes": [
+      "Grace",
+      "Unique"
+    ],
+    "etymology": "From Arabic samīr",
+    "meaning": "Companion in evening talk",
+    "hiddenMeaning": "Night conversation and warmth",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "yara",
+    "name": "Yara",
+    "gender": "girl",
+    "origins": [
+      "Arabic"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "Arabic small butterfly / water lady",
+    "meaning": "Butterfly; water lady",
+    "hiddenMeaning": "Delicate and mythic",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "priya",
+    "name": "Priya",
+    "gender": "girl",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet"
+    ],
+    "etymology": "From Sanskrit priya",
+    "meaning": "Beloved",
+    "hiddenMeaning": "Love said simply",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ananya",
+    "name": "Ananya",
+    "gender": "girl",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Unique",
+      "Wisdom"
+    ],
+    "etymology": "From Sanskrit ananya",
+    "meaning": "Unique; matchless",
+    "hiddenMeaning": "One of a kind, literally",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "meera",
+    "name": "Meera",
+    "gender": "girl",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Light",
+      "Grace"
+    ],
+    "etymology": "From Sanskrit Mira / devotee saint",
+    "meaning": "Ocean; prosperous; devotee",
+    "hiddenMeaning": "Devotional song energy",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "indira",
+    "name": "Indira",
+    "gender": "girl",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "From Sanskrit Indīra",
+    "meaning": "Beauty; goddess Lakshmi",
+    "hiddenMeaning": "Radiant prosperity",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "kavya",
+    "name": "Kavya",
+    "gender": "girl",
+    "origins": [
+      "Indian"
+    ],
+    "themes": [
+      "Wisdom",
+      "Unique"
+    ],
+    "etymology": "From Sanskrit kāvya",
+    "meaning": "Poetry; poem",
+    "hiddenMeaning": "Living verse",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "aiko",
+    "name": "Aiko",
+    "gender": "girl",
+    "origins": [
+      "Japanese"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet"
+    ],
+    "etymology": "Japanese: ai (love) + ko (child)",
+    "meaning": "Loved child; child of love",
+    "hiddenMeaning": "Love made into a child",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "hana",
+    "name": "Hana",
+    "gender": "girl",
+    "origins": [
+      "Japanese",
+      "Arabic"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "Japanese flower; Arabic bliss",
+    "meaning": "Flower; happiness",
+    "hiddenMeaning": "Bloom and joy across tongues",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "sakura",
+    "name": "Sakura",
+    "gender": "girl",
+    "origins": [
+      "Japanese"
+    ],
+    "themes": [
+      "Nature"
+    ],
+    "etymology": "Japanese sakura",
+    "meaning": "Cherry blossom",
+    "hiddenMeaning": "Brief beautiful spring",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "mei",
+    "name": "Mei",
+    "gender": "girl",
+    "origins": [
+      "Chinese",
+      "Japanese"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "Chinese plum / beautiful; Japanese bud",
+    "meaning": "Beautiful; plum",
+    "hiddenMeaning": "Spring plum brevity",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "amara",
+    "name": "Amara",
+    "gender": "girl",
+    "origins": [
+      "African",
+      "Indian"
+    ],
+    "themes": [
+      "Grace",
+      "Unique"
+    ],
+    "etymology": "Igbo grace / Sanskrit immortal / Latin bitter",
+    "meaning": "Grace; immortal",
+    "hiddenMeaning": "Cross-continental grace",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "zuri",
+    "name": "Zuri",
+    "gender": "girl",
+    "origins": [
+      "African"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet"
+    ],
+    "etymology": "From Swahili zuri",
+    "meaning": "Beautiful",
+    "hiddenMeaning": "Beauty without apology",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "imani",
+    "name": "Imani",
+    "gender": "girl",
+    "origins": [
+      "African"
+    ],
+    "themes": [
+      "Wisdom"
+    ],
+    "etymology": "From Swahili imani",
+    "meaning": "Faith",
+    "hiddenMeaning": "Belief made personal",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "amina",
+    "name": "Amina",
+    "gender": "girl",
+    "origins": [
+      "Arabic",
+      "African"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "From Arabic amīn",
+    "meaning": "Trustworthy; honest",
+    "hiddenMeaning": "Trust earned quietly",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "nia",
+    "name": "Nia",
+    "gender": "girl",
+    "origins": [
+      "African",
+      "Welsh"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Wisdom"
+    ],
+    "etymology": "Swahili purpose; Welsh bright",
+    "meaning": "Purpose; bright",
+    "hiddenMeaning": "Purpose in three letters",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "sanaa",
+    "name": "Sanaa",
+    "gender": "girl",
+    "origins": [
+      "African",
+      "Arabic"
+    ],
+    "themes": [
+      "Unique",
+      "Grace"
+    ],
+    "etymology": "Swahili art; Arabic brilliance",
+    "meaning": "Art; radiance",
+    "hiddenMeaning": "Creative light",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "anya",
+    "name": "Anya",
+    "gender": "girl",
+    "origins": [
+      "Slavic",
+      "Indian"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet"
+    ],
+    "etymology": "Russian diminutive of Anna; Sanskrit inexhaustible",
+    "meaning": "Grace; inexhaustible",
+    "hiddenMeaning": "Slavic softness",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "mila",
+    "name": "Mila",
+    "gender": "girl",
+    "origins": [
+      "Slavic"
+    ],
+    "themes": [
+      "Grace",
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Slavic mil",
+    "meaning": "Gracious; dear",
+    "hiddenMeaning": "Dear one, internationally",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "nadia",
+    "name": "Nadia",
+    "gender": "girl",
+    "origins": [
+      "Slavic",
+      "Arabic"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "From Slavic Nadezhda / Arabic dew",
+    "meaning": "Hope; delicate",
+    "hiddenMeaning": "Hope that travels",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "katya",
+    "name": "Katya",
+    "gender": "girl",
+    "origins": [
+      "Slavic",
+      "Greek"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "Russian diminutive of Ekaterina",
+    "meaning": "Pure",
+    "hiddenMeaning": "Russian Catherine, intimate",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "olga",
+    "name": "Olga",
+    "gender": "girl",
+    "origins": [
+      "Slavic",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Strength",
+      "Vintage"
+    ],
+    "etymology": "From Old Norse Helga",
+    "meaning": "Holy; blessed",
+    "hiddenMeaning": "Slavic steel holiness",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "vera",
+    "name": "Vera",
+    "gender": "girl",
+    "origins": [
+      "Slavic",
+      "Latin"
+    ],
+    "themes": [
+      "Wisdom",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Russian vera / Latin verus",
+    "meaning": "Faith; truth",
+    "hiddenMeaning": "Truth and faith compressed",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "irina",
+    "name": "Irina",
+    "gender": "girl",
+    "origins": [
+      "Slavic",
+      "Greek"
+    ],
+    "themes": [
+      "Grace"
+    ],
+    "etymology": "From Greek eirēnē",
+    "meaning": "Peace",
+    "hiddenMeaning": "Peace with Slavic vowels",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "svetlana",
+    "name": "Svetlana",
+    "gender": "girl",
+    "origins": [
+      "Slavic"
+    ],
+    "themes": [
+      "Light",
+      "Unique"
+    ],
+    "etymology": "From Slavic svet",
+    "meaning": "Light; world",
+    "hiddenMeaning": "Radiant Slavic light",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "clara",
+    "name": "Clara",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Light",
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin clarus",
+    "meaning": "Clear; bright",
+    "hiddenMeaning": "Brightness you can hold",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Wisdom",
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "From Germanic Adalheidis via Old French",
+    "meaning": "Noble kind",
+    "hiddenMeaning": "Wonderland curiosity grounded",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "jane",
+    "name": "Jane",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Short & sweet",
+      "Vintage"
+    ],
+    "etymology": "From Hebrew Yochanan via Jeanne",
+    "meaning": "God is gracious",
+    "hiddenMeaning": "Plain elegance perfected",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "margaret",
+    "name": "Margaret",
+    "gender": "girl",
+    "origins": [
+      "Greek",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Vintage",
+      "Royalty",
+      "Wisdom"
+    ],
+    "etymology": "From Greek margarītēs",
+    "meaning": "Pearl",
+    "hiddenMeaning": "Pearl of great price",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "catherine",
+    "name": "Catherine",
+    "gender": "girl",
+    "origins": [
+      "Greek",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Royalty",
+      "Wisdom",
+      "Grace"
+    ],
+    "etymology": "From Greek Aikaterinē / katharos",
+    "meaning": "Pure",
+    "hiddenMeaning": "Empress purity",
+    "syllables": 3,
+    "length": 9,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "elizabeth",
+    "name": "Elizabeth",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Royalty",
+      "Grace"
+    ],
+    "etymology": "From Hebrew Elisheva",
+    "meaning": "God is my oath",
+    "hiddenMeaning": "Queens and covenants",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English",
+      "Spanish"
+    ],
+    "themes": [
+      "Royalty",
+      "Strength"
+    ],
+    "etymology": "From Latin victoria",
+    "meaning": "Victory",
+    "hiddenMeaning": "Win worn gracefully",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "matilda",
+    "name": "Matilda",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Strength",
+      "Vintage"
+    ],
+    "etymology": "From Germanic Mahthildis: might + battle",
+    "meaning": "Battle-mighty",
+    "hiddenMeaning": "Strong mind, soft vowels",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "josephine",
+    "name": "Josephine",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Hebrew"
+    ],
+    "themes": [
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "French feminine of Joseph",
+    "meaning": "He will add",
+    "hiddenMeaning": "Empire chic with warmth",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "beatrice",
+    "name": "Beatrice",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "Italian",
+      "English"
+    ],
+    "themes": [
+      "Wisdom",
+      "Vintage"
+    ],
+    "etymology": "From Latin Beatrix / Viatrix",
+    "meaning": "She who brings happiness; voyager",
+    "hiddenMeaning": "Blessed traveler",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "From Latin Florentius",
+    "meaning": "Flourishing; blooming",
+    "hiddenMeaning": "Renaissance city energy",
+    "syllables": 2,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "cora",
+    "name": "Cora",
+    "gender": "girl",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Vintage",
+      "Nature"
+    ],
+    "etymology": "From Greek Korē",
+    "meaning": "Maiden; daughter",
+    "hiddenMeaning": "Persephone's spring name",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "eliza",
+    "name": "Eliza",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "Short for Elizabeth",
+    "meaning": "God is my oath",
+    "hiddenMeaning": "Sharper Elizabeth",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "willa",
+    "name": "Willa",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Vintage",
+      "Strength",
+      "Short & sweet"
+    ],
+    "etymology": "Feminine of William / from wil",
+    "meaning": "Resolute protection; desire",
+    "hiddenMeaning": "Literary prairie strength",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "june",
+    "name": "June",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin Iuno / month name",
+    "meaning": "Young; of Juno",
+    "hiddenMeaning": "Midsummer ease",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Short & sweet",
+      "Light"
+    ],
+    "etymology": "From Latin ruber via gem name",
+    "meaning": "Red gemstone",
+    "hiddenMeaning": "Deep red spark",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "pearl",
+    "name": "Pearl",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin perla / English gem",
+    "meaning": "Pearl",
+    "hiddenMeaning": "Ocean-formed quiet luxury",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "opal",
+    "name": "Opal",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Unique",
+      "Light"
+    ],
+    "etymology": "From Sanskrit upala",
+    "meaning": "Gemstone; precious stone",
+    "hiddenMeaning": "Iridescent rarity",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "esme",
+    "name": "Esme",
+    "gender": "girl",
+    "origins": [
+      "French"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Unique"
+    ],
+    "etymology": "From Old French esmé",
+    "meaning": "Esteemed; loved",
+    "hiddenMeaning": "Compact affection",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "imogen",
+    "name": "Imogen",
+    "gender": "girl",
+    "origins": [
+      "Celtic",
+      "English"
+    ],
+    "themes": [
+      "Unique",
+      "Grace"
+    ],
+    "etymology": "Possibly from Innogen / Celtic",
+    "meaning": "Maiden; girl; innocent",
+    "hiddenMeaning": "Shakespearean soft mystery",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "cordelia",
+    "name": "Cordelia",
+    "gender": "girl",
+    "origins": [
+      "Celtic",
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Mythology",
+      "Grace"
+    ],
+    "etymology": "Possibly from Celtic / Latin cor",
+    "meaning": "Heart; daughter of the sea",
+    "hiddenMeaning": "Lear's loyal heart",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "ophelia",
+    "name": "Ophelia",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Mythology",
+      "Unique"
+    ],
+    "etymology": "From Greek ōpheleia",
+    "meaning": "Help; benefit",
+    "hiddenMeaning": "Tragic beauty reclaimed",
+    "syllables": 4,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "rosalie",
+    "name": "Rosalie",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "From Latin rosa + French/German forms",
+    "meaning": "Rose",
+    "hiddenMeaning": "Rose with French length",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "genevieve",
+    "name": "Genevieve",
+    "gender": "girl",
+    "origins": [
+      "French",
+      "Celtic"
+    ],
+    "themes": [
+      "Grace",
+      "Strength"
+    ],
+    "etymology": "Possibly from Celtic Kenowefa",
+    "meaning": "Tribe woman; white wave",
+    "hiddenMeaning": "Parisian saintly steel",
+    "syllables": 3,
+    "length": 9,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "adelaide",
+    "name": "Adelaide",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Royalty",
+      "Vintage"
+    ],
+    "etymology": "From Germanic Adalheidis",
+    "meaning": "Noble kind",
+    "hiddenMeaning": "Noble and complete",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "evangeline",
+    "name": "Evangeline",
+    "gender": "girl",
+    "origins": [
+      "Greek",
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Light",
+      "Biblical"
+    ],
+    "etymology": "From Greek euangelion",
+    "meaning": "Bearer of good news",
+    "hiddenMeaning": "Gospel in long vowels",
+    "syllables": 4,
+    "length": 10,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "seraphina",
+    "name": "Seraphina",
+    "gender": "girl",
+    "origins": [
+      "Hebrew",
+      "Latin"
+    ],
+    "themes": [
+      "Biblical",
+      "Light",
+      "Unique"
+    ],
+    "etymology": "From Hebrew seraphim via Latin",
+    "meaning": "Fiery one; burning ones",
+    "hiddenMeaning": "Angel fire tempered",
+    "syllables": 4,
+    "length": 9,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "isadora",
+    "name": "Isadora",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Unique",
+      "Grace"
+    ],
+    "etymology": "From Greek Isidōros feminine",
+    "meaning": "Gift of Isis",
+    "hiddenMeaning": "Dance and devotion",
+    "syllables": 4,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "linnea",
+    "name": "Linnea",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Nature",
+      "Unique"
+    ],
+    "etymology": "From Swedish botanist Linnaeus / twinflower",
+    "meaning": "Twinflower; lime tree",
+    "hiddenMeaning": "Nordic woodland bloom",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "wren",
+    "name": "Wren",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet",
+      "Unique"
+    ],
+    "etymology": "From Old English wrenna",
+    "meaning": "Small songbird",
+    "hiddenMeaning": "Tiny voice, large presence",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "juniper",
+    "name": "Juniper",
+    "gender": "girl",
+    "origins": [
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Nature",
+      "Unique",
+      "Modern"
+    ],
+    "etymology": "From Latin iuniperus",
+    "meaning": "Juniper tree",
+    "hiddenMeaning": "Spice and evergreen",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "marigold",
+    "name": "Marigold",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Unique"
+    ],
+    "etymology": "English flower name: Mary + gold",
+    "meaning": "Golden flower",
+    "hiddenMeaning": "Garden gold",
+    "syllables": 3,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "poppy",
+    "name": "Poppy",
+    "gender": "girl",
+    "origins": [
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet",
+      "Light"
+    ],
+    "etymology": "From Latin papaver via English",
+    "meaning": "Poppy flower",
+    "hiddenMeaning": "Red field cheer",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "daisy",
+    "name": "Daisy",
+    "gender": "girl",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Short & sweet",
+      "Light"
+    ],
+    "etymology": "From Old English dægesege",
+    "meaning": "Day's eye",
+    "hiddenMeaning": "Open to the sun",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "magnolia",
+    "name": "Magnolia",
+    "gender": "girl",
+    "origins": [
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Nature",
+      "Unique",
+      "Vintage"
+    ],
+    "etymology": "From botanist Magnol / flower",
+    "meaning": "Magnolia flower",
+    "hiddenMeaning": "Southern bloom grandeur",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "clementine",
+    "name": "Clementine",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "French"
+    ],
+    "themes": [
+      "Vintage",
+      "Nature",
+      "Grace"
+    ],
+    "etymology": "Feminine of Clement / fruit name",
+    "meaning": "Merciful; citrus",
+    "hiddenMeaning": "Sweet mercy and orange peel",
+    "syllables": 3,
+    "length": 10,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ottilie",
+    "name": "Ottilie",
+    "gender": "girl",
+    "origins": [
+      "German",
+      "French"
+    ],
+    "themes": [
+      "Vintage",
+      "Unique"
+    ],
+    "etymology": "From Germanic ot / Ottilia",
+    "meaning": "Prosperity; fortune",
+    "hiddenMeaning": "Continental vintage polish",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "theodora",
+    "name": "Theodora",
+    "gender": "girl",
+    "origins": [
+      "Greek"
+    ],
+    "themes": [
+      "Biblical",
+      "Royalty",
+      "Wisdom"
+    ],
+    "etymology": "Feminine of Theodore",
+    "meaning": "Gift of God",
+    "hiddenMeaning": "Empress gift",
+    "syllables": 4,
+    "length": 8,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "leonora",
+    "name": "Leonora",
+    "gender": "girl",
+    "origins": [
+      "Italian",
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Royalty",
+      "Vintage"
+    ],
+    "etymology": "Variant of Eleanor",
+    "meaning": "Light; compassion",
+    "hiddenMeaning": "Opera-house elegance",
+    "syllables": 4,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "cosette",
+    "name": "Cosette",
+    "gender": "girl",
+    "origins": [
+      "French"
+    ],
+    "themes": [
+      "Unique",
+      "Vintage"
+    ],
+    "etymology": "French diminutive related to Nicolette / Hugo",
+    "meaning": "Little thing; victory of the people",
+    "hiddenMeaning": "Literary tenderness",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "fleur",
+    "name": "Fleur",
+    "gender": "girl",
+    "origins": [
+      "French"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From French fleur",
+    "meaning": "Flower",
+    "hiddenMeaning": "Parisian bloom",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "soleil",
+    "name": "Soleil",
+    "gender": "girl",
+    "origins": [
+      "French"
+    ],
+    "themes": [
+      "Light",
+      "Unique",
+      "Nature"
+    ],
+    "etymology": "From French soleil",
+    "meaning": "Sun",
+    "hiddenMeaning": "French sunshine",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "maren",
+    "name": "Maren",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian",
+      "Latin"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin marinus / Scandinavian",
+    "meaning": "Of the sea",
+    "hiddenMeaning": "Northern sea calm",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "liv",
+    "name": "Liv",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Nature"
+    ],
+    "etymology": "From Old Norse hlíf / modern Liv",
+    "meaning": "Protection; life",
+    "hiddenMeaning": "Life in three letters",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "saga",
+    "name": "Saga",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Mythology",
+      "Wisdom",
+      "Short & sweet"
+    ],
+    "etymology": "From Old Norse Sága",
+    "meaning": "Seeing one; story",
+    "hiddenMeaning": "Storytelling goddess",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "tyra",
+    "name": "Tyra",
+    "gender": "girl",
+    "origins": [
+      "Scandinavian"
+    ],
+    "themes": [
+      "Strength",
+      "Short & sweet"
+    ],
+    "etymology": "From Old Norse Þýri / Thor related",
+    "meaning": "Thor's struggle; of Thor",
+    "hiddenMeaning": "Thunder softened",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "sable",
+    "name": "Sable",
+    "gender": "girl",
+    "origins": [
+      "English",
+      "French"
+    ],
+    "themes": [
+      "Nature",
+      "Unique",
+      "Modern"
+    ],
+    "etymology": "From Slavic via French sable fur",
+    "meaning": "Black; soft fur",
+    "hiddenMeaning": "Dark soft luxury",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "tabitha",
+    "name": "Tabitha",
+    "gender": "girl",
+    "origins": [
+      "Aramaic",
+      "Biblical",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Vintage",
+      "Grace"
+    ],
+    "etymology": "From Aramaic Tabitha / Greek Dorcas",
+    "meaning": "Gazelle",
+    "hiddenMeaning": "Acts of kindness, soft-spoken",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "priscilla",
+    "name": "Priscilla",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Vintage"
+    ],
+    "etymology": "From Latin Prisca",
+    "meaning": "Ancient; venerable",
+    "hiddenMeaning": "Early church hospitality",
+    "syllables": 3,
+    "length": 9,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "lydia",
+    "name": "Lydia",
+    "gender": "girl",
+    "origins": [
+      "Greek",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Grace"
+    ],
+    "etymology": "From Greek Lydia, of Lydia",
+    "meaning": "Woman from Lydia",
+    "hiddenMeaning": "Purple-trade entrepreneur saint",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "sylvia",
+    "name": "Sylvia",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage"
+    ],
+    "etymology": "From Latin silva",
+    "meaning": "Of the forest",
+    "hiddenMeaning": "Woodland classical",
+    "syllables": 3,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "diana",
+    "name": "Diana",
+    "gender": "girl",
+    "origins": [
+      "Latin",
+      "Roman"
+    ],
+    "themes": [
+      "Mythology",
+      "Nature",
+      "Strength"
+    ],
+    "etymology": "From Latin Diana, Roman goddess",
+    "meaning": "Divine; heavenly",
+    "hiddenMeaning": "Huntress moon",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "river",
+    "name": "River",
+    "gender": "unisex",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Modern",
+      "Unique"
+    ],
+    "etymology": "From English river",
+    "meaning": "Flowing water",
+    "hiddenMeaning": "Always moving toward something larger",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "gender": "unisex",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Mythology",
+      "Light",
+      "Unique"
+    ],
+    "etymology": "From Greek phoinix",
+    "meaning": "Deep red; mythical bird",
+    "hiddenMeaning": "Rising from what came before",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rare",
+    "tags": []
+  },
+  {
+    "id": "kai",
+    "name": "Kai",
+    "gender": "unisex",
+    "origins": [
+      "Japanese",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Hawaiian sea; Japanese shell; Frisian form of Gerard",
+    "meaning": "Sea; shell; keeper of the keys",
+    "hiddenMeaning": "Ocean in a single syllable",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "gender": "unisex",
+    "origins": [
+      "English",
+      "Latin"
+    ],
+    "themes": [
+      "Wisdom",
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From Latin sapiens / English herb",
+    "meaning": "Wise one; herb",
+    "hiddenMeaning": "Herb-garden wisdom",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ash",
+    "name": "Ash",
+    "gender": "unisex",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From Old English æsc",
+    "meaning": "Ash tree",
+    "hiddenMeaning": "Tree and ember both",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "eden",
+    "name": "Eden",
+    "gender": "unisex",
+    "origins": [
+      "Hebrew"
+    ],
+    "themes": [
+      "Biblical",
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "From Hebrew ʿEden",
+    "meaning": "Delight; paradise",
+    "hiddenMeaning": "Garden before the fall",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "shiloh",
+    "name": "Shiloh",
+    "gender": "unisex",
+    "origins": [
+      "Hebrew",
+      "Biblical"
+    ],
+    "themes": [
+      "Biblical",
+      "Unique"
+    ],
+    "etymology": "From Hebrew Shiloh",
+    "meaning": "Tranquil; his gift",
+    "hiddenMeaning": "Place of rest and promise",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "yuki",
+    "name": "Yuki",
+    "gender": "unisex",
+    "origins": [
+      "Japanese"
+    ],
+    "themes": [
+      "Nature",
+      "Short & sweet"
+    ],
+    "etymology": "Japanese: snow / happiness (depending on kanji)",
+    "meaning": "Snow; happiness",
+    "hiddenMeaning": "Quiet winter brightness",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "amari",
+    "name": "Amari",
+    "gender": "unisex",
+    "origins": [
+      "African",
+      "Arabic"
+    ],
+    "themes": [
+      "Unique",
+      "Strength"
+    ],
+    "etymology": "Possibly Yoruba or Arabic amir related",
+    "meaning": "Strength; builder; prince",
+    "hiddenMeaning": "Cross-cultural resonance",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "alex",
+    "name": "Alex",
+    "gender": "unisex",
+    "origins": [
+      "Greek",
+      "English"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Short for Alexander/Alexandra",
+    "meaning": "Defender",
+    "hiddenMeaning": "Defense in casual clothes",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "gender": "unisex",
+    "origins": [
+      "Hebrew",
+      "English"
+    ],
+    "themes": [
+      "Biblical",
+      "Nature",
+      "Modern"
+    ],
+    "etymology": "From Hebrew Yarden",
+    "meaning": "To flow down; the river Jordan",
+    "hiddenMeaning": "River crossing energy",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "taylor",
+    "name": "Taylor",
+    "gender": "unisex",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Modern"
+    ],
+    "etymology": "English occupational surname",
+    "meaning": "Tailor; cutter of cloth",
+    "hiddenMeaning": "Craft and fit",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "quinn",
+    "name": "Quinn",
+    "gender": "unisex",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Irish Ó Cuinn",
+    "meaning": "Descendant of Conn; wisdom",
+    "hiddenMeaning": "Irish spark",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "rowan",
+    "name": "Rowan",
+    "gender": "unisex",
+    "origins": [
+      "Irish",
+      "Scottish",
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Modern"
+    ],
+    "etymology": "From Irish Ruadhán / English rowan tree",
+    "meaning": "Little red one; rowan tree",
+    "hiddenMeaning": "Protective mountain ash",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "cameron",
+    "name": "Cameron",
+    "gender": "unisex",
+    "origins": [
+      "Scottish"
+    ],
+    "themes": [
+      "Strength",
+      "Modern"
+    ],
+    "etymology": "From Scottish Gaelic cam + sròn",
+    "meaning": "Crooked nose",
+    "hiddenMeaning": "Clan strength, soft edges",
+    "syllables": 3,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "avery",
+    "name": "Avery",
+    "gender": "unisex",
+    "origins": [
+      "English",
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Modern",
+      "Grace"
+    ],
+    "etymology": "From Germanic Alberich / Alfred related",
+    "meaning": "Elf counsel; ruler of elves",
+    "hiddenMeaning": "Counsel with a modern cut",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "parker",
+    "name": "Parker",
+    "gender": "unisex",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Modern",
+      "Nature"
+    ],
+    "etymology": "English occupational surname",
+    "meaning": "Park keeper",
+    "hiddenMeaning": "Green space guardian",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "riley",
+    "name": "Riley",
+    "gender": "unisex",
+    "origins": [
+      "Irish",
+      "English"
+    ],
+    "themes": [
+      "Modern",
+      "Nature"
+    ],
+    "etymology": "From Irish Ó Raghallaigh / English rye clearing",
+    "meaning": "Valiant; rye meadow",
+    "hiddenMeaning": "Open field energy",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "skylar",
+    "name": "Skylar",
+    "gender": "unisex",
+    "origins": [
+      "Dutch",
+      "English"
+    ],
+    "themes": [
+      "Light",
+      "Modern",
+      "Unique"
+    ],
+    "etymology": "From Dutch schuyler / English sky",
+    "meaning": "Scholar; sky",
+    "hiddenMeaning": "Wide open above",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "charlie",
+    "name": "Charlie",
+    "gender": "unisex",
+    "origins": [
+      "English",
+      "French",
+      "German"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Diminutive of Charles/Charlotte",
+    "meaning": "Free person",
+    "hiddenMeaning": "Friendly freedom",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "frankie",
+    "name": "Frankie",
+    "gender": "unisex",
+    "origins": [
+      "English",
+      "Latin",
+      "German"
+    ],
+    "themes": [
+      "Vintage",
+      "Modern"
+    ],
+    "etymology": "Diminutive of Francis/Frances",
+    "meaning": "French; free one",
+    "hiddenMeaning": "Vintage friendliness",
+    "syllables": 2,
+    "length": 7,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "jamie",
+    "name": "Jamie",
+    "gender": "unisex",
+    "origins": [
+      "Scottish",
+      "English",
+      "Hebrew"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Diminutive of James",
+    "meaning": "Supplanter",
+    "hiddenMeaning": "Scottish ease",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "morgan",
+    "name": "Morgan",
+    "gender": "unisex",
+    "origins": [
+      "Welsh",
+      "Celtic"
+    ],
+    "themes": [
+      "Mythology",
+      "Modern"
+    ],
+    "etymology": "From Welsh Morcant / sea circle",
+    "meaning": "Sea-born; bright sea",
+    "hiddenMeaning": "Arthurian mist and tide",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "casey",
+    "name": "Casey",
+    "gender": "unisex",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Irish Ó Cathasaigh",
+    "meaning": "Vigilant; watchful",
+    "hiddenMeaning": "Alert kindness",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "finley",
+    "name": "Finley",
+    "gender": "unisex",
+    "origins": [
+      "Scottish",
+      "Irish"
+    ],
+    "themes": [
+      "Nature",
+      "Modern"
+    ],
+    "etymology": "From Scottish Fionnlagh",
+    "meaning": "Fair warrior; white hero",
+    "hiddenMeaning": "Fair fight energy",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "emery",
+    "name": "Emery",
+    "gender": "unisex",
+    "origins": [
+      "German",
+      "English"
+    ],
+    "themes": [
+      "Strength",
+      "Modern"
+    ],
+    "etymology": "From Germanic Amalric",
+    "meaning": "Industrious ruler; home power",
+    "hiddenMeaning": "Work and rule softened",
+    "syllables": 3,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "hayden",
+    "name": "Hayden",
+    "gender": "unisex",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Nature",
+      "Modern"
+    ],
+    "etymology": "From Old English heg + denu",
+    "meaning": "Hay valley",
+    "hiddenMeaning": "Valley of grass",
+    "syllables": 2,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "reese",
+    "name": "Reese",
+    "gender": "unisex",
+    "origins": [
+      "Welsh"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Welsh Rhys",
+    "meaning": "Ardor; enthusiasm",
+    "hiddenMeaning": "Welsh fire, unisex cut",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "blair",
+    "name": "Blair",
+    "gender": "unisex",
+    "origins": [
+      "Scottish"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "From Scottish Gaelic blár",
+    "meaning": "Plain; field",
+    "hiddenMeaning": "Open ground clarity",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "drew",
+    "name": "Drew",
+    "gender": "unisex",
+    "origins": [
+      "Greek",
+      "English",
+      "Scottish"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Short for Andrew",
+    "meaning": "Manly; brave",
+    "hiddenMeaning": "Bravery abbreviated",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "robin",
+    "name": "Robin",
+    "gender": "unisex",
+    "origins": [
+      "English",
+      "German"
+    ],
+    "themes": [
+      "Nature",
+      "Vintage",
+      "Short & sweet"
+    ],
+    "etymology": "Diminutive of Robert / bird name",
+    "meaning": "Bright fame; robin bird",
+    "hiddenMeaning": "Songbird and knight",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "sunny",
+    "name": "Sunny",
+    "gender": "unisex",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Light",
+      "Nature",
+      "Modern",
+      "Short & sweet"
+    ],
+    "etymology": "From English sunny",
+    "meaning": "Bright; cheerful",
+    "hiddenMeaning": "Weather as personality",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "kerry",
+    "name": "Kerry",
+    "gender": "unisex",
+    "origins": [
+      "Irish"
+    ],
+    "themes": [
+      "Nature",
+      "Modern"
+    ],
+    "etymology": "From Irish Ciarraí / county Kerry",
+    "meaning": "Descendants of Ciar; dark one",
+    "hiddenMeaning": "Irish county green",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "shawn",
+    "name": "Shawn",
+    "gender": "unisex",
+    "origins": [
+      "Irish",
+      "English"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Anglicized Sean",
+    "meaning": "God is gracious",
+    "hiddenMeaning": "Gracious and approachable",
+    "syllables": 1,
+    "length": 5,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "jing",
+    "name": "Jing",
+    "gender": "unisex",
+    "origins": [
+      "Chinese"
+    ],
+    "themes": [
+      "Light",
+      "Short & sweet"
+    ],
+    "etymology": "Chinese: jīng (essence/quiet/crystal)",
+    "meaning": "Essence; quiet; crystal",
+    "hiddenMeaning": "Still water clarity",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "ari",
+    "name": "Ari",
+    "gender": "unisex",
+    "origins": [
+      "Hebrew",
+      "Scandinavian"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Strength"
+    ],
+    "etymology": "Hebrew lion; short for Ariel / Aristotle",
+    "meaning": "Lion; lion of God",
+    "hiddenMeaning": "Small roar",
+    "syllables": 1,
+    "length": 3,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "noel",
+    "name": "Noel",
+    "gender": "unisex",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Biblical",
+      "Short & sweet"
+    ],
+    "etymology": "From French Noël / Latin natalis",
+    "meaning": "Christmas; birth",
+    "hiddenMeaning": "Midwinter joy",
+    "syllables": 1,
+    "length": 4,
+    "vibe": "classic",
+    "tags": []
+  },
+  {
+    "id": "remi",
+    "name": "Remi",
+    "gender": "unisex",
+    "origins": [
+      "French",
+      "Latin"
+    ],
+    "themes": [
+      "Short & sweet",
+      "Modern"
+    ],
+    "etymology": "Variant of Remy from Latin Remigius",
+    "meaning": "Oarsman",
+    "hiddenMeaning": "River skill, soft spelling",
+    "syllables": 2,
+    "length": 4,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "sloane",
+    "name": "Sloane",
+    "gender": "unisex",
+    "origins": [
+      "Irish",
+      "English"
+    ],
+    "themes": [
+      "Modern",
+      "Unique"
+    ],
+    "etymology": "From Irish sluaghadh / surname",
+    "meaning": "Raid; expedition",
+    "hiddenMeaning": "Sharp modern edge",
+    "syllables": 1,
+    "length": 6,
+    "vibe": "rising",
+    "tags": []
+  },
+  {
+    "id": "tatum",
+    "name": "Tatum",
+    "gender": "unisex",
+    "origins": [
+      "English"
+    ],
+    "themes": [
+      "Modern",
+      "Unique"
+    ],
+    "etymology": "From Old English Tate homestead",
+    "meaning": "Cheerful; Tate's homestead",
+    "hiddenMeaning": "Surname spark",
+    "syllables": 2,
+    "length": 5,
+    "vibe": "rising",
+    "tags": []
+  }
+]
