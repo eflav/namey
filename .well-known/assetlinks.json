@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.namey.twa",
+      "sha256_cert_fingerprints": [
+        "5d897670bc6e72a8df9562e287f6a910f06c260e901179403b25e376cd22b755"
+      ]
+    }
+  }
+]
