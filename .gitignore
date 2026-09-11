@@ -37,3 +37,4 @@ android/app-release-bundle.aab
 .secrets/
 *.idsig
 android/app-release-unsigned-aligned.apk
+docs/play-store/artifacts/

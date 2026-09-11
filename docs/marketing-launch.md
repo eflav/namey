@@ -5,12 +5,14 @@
 **Date:** 2026-09-11  
 **Scope:** Namey only. Quiet until live. Profit ASAP without burning trust or ad spend on a tunnel URL.
 
+**Berry call — LAUNCH WITH GATES:** Organic TikTok only for 30 days (no paid UA). Positioning: **solo shortlist → share with partner** (not a couples-match app). Hold tip £ until Edward approves money. TikTok posting still needs Edward account unlock.
+
 **Hard gates before any paid traffic or “go big” posting**
 - Permanent public URL — **LIVE:** `https://eflav.github.io/namey/` (Berry confirmed 2026-09-11)
 - Share caption includes that URL (never the tunnel)
 - Share card + A2HS smoke-pass on iOS Safari + Home Screen
 
-**Organic unlocked.** Seed content + bio now. Hold paid until 3 organic winners. Never link the old tunnel.
+**LAUNCH WITH GATES (Berry 2026-09-11):** Organic TikTok only for **30 days** — no paid UA. Seed + bio ready; posting blocked until Edward unlocks TikTok. Never link the old tunnel.
 
 ---
 
@@ -159,7 +161,7 @@ Partner “both liked” is P1 after share works (Product); until then, captions
 
 | Option | Verdict | Why |
 | --- | --- | --- |
-| **Paid ads first** | No | Burning £ into a tunnel / unproven creative. Unlock after stable host + organic winners. |
+| **Paid ads / UA** | **No for 30 days** | Berry gate: organic only. Revisit after day 30 + 3 organic winners. |
 | **Tip jar** | **Copy-only for now** | Product v1 = “tips coming soon” until Edward approves money. **No Ko-fi / Stripe links** in TikTok or the app. |
 | **Namey Pro waitlist** | **Yes — primary bet** | Highest LTV path. Email only (Product locked). Captures launch list without breaking on-device privacy. |
 | **Affiliate** | Later | Revisit after waitlist is live and tip money is approved. |
@@ -168,7 +170,7 @@ Partner “both liked” is P1 after share works (Product); until then, captions
 1. **Profit path without premature payments** → waitlist now; real tips only after Edward’s money go-ahead.  
 2. **Brand & roadmap** → Pro waitlist funds partner/sync later without shipping partner accounts this cut.  
 3. **Trust strip** → waitlist is email-only; no tracking pixels inside the quiz.  
-4. **Ads** → hold until 3 organic winners (host is live).
+4. **Ads / paid UA** → none for 30 days (Berry gate). Then only with 3 organic winners + Edward OK.
 
 ### Pro waitlist offer (draft)
 > **Namey Pro (coming)** — keep your shortlist across phones and share it when you’re ready.  
@@ -212,7 +214,7 @@ Keep on-screen text huge. Cut dead air. End on the ShareCard freeze-frame.
 **VO:** “You’re not picking a name. You’re picking one you’ll both still like at 3am.”  
 **Beat:** Save → share sheet → ShareCard.  
 **End:** “Namey — decide together without the argument spreadsheet.”  
-**Note:** Couple *story* only — partner accounts stay cut; no “both liked” mechanic in product or copy.
+**Note:** Framing = solo shortlist → share with partner (not couples-match). Partner accounts stay cut; no “both liked” mechanic.
 
 ### Script 4 — One-name deep dive (12–18s)
 **Visual:** Screen-record Name detail: motif, meaning, similar names (when shipped).  
@@ -240,7 +242,7 @@ Keep on-screen text huge. Cut dead air. End on the ShareCard freeze-frame.
 - [ ] TikTok account bio + pinned how-it-works  
 - [ ] 10 ShareCards pre-exported (boy/girl mix) for faceless backlog  
 - [ ] First 14-day content calendar filled from scripts 1–5  
-- [ ] No paid until 3 organic winners  
+- [ ] No paid UA for 30 days (then only with 3 winners + Edward OK)  
 
 ---
 
@@ -255,5 +257,5 @@ Keep on-screen text huge. Cut dead air. End on the ShareCard freeze-frame.
 
 - [x] Berry: GitHub Pages live — captions/share pack use `https://eflav.github.io/namey/` only  
 - [ ] Edward: approve taking tip money (provider TBD) before any payment link ships  
-- [ ] 3 organic winners before any paid  
+- [ ] 30-day organic window + 3 winners before any paid UA  
 

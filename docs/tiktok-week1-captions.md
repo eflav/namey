@@ -2,7 +2,8 @@
 
 **URL (every post / bio):** https://eflav.github.io/namey/  
 **Cards:** `/workspace/namey/docs/sharecards/`  
-**Hold:** tip £ links · paid ads until 3 organic winners  
+**Hold:** tip £ links · **no paid UA for 30 days** (Berry gate) · then only with 3 organic winners
+**Positioning:** solo shortlist → share with partner (not couples-match)  
 **Cadence:** 2/day soft launch → 2–3/day if saves climb
 
 Post the PNG as the visual (or screen-record onto it). Faceless is fine.
