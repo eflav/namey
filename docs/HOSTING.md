@@ -26,7 +26,7 @@ Actions workflow push is blocked for this OAuth token (`workflow` scope missing)
 ```bash
 cd /workspace/namey
 npm run build
-npx --yes gh-pages -d dist
+npx --yes gh-pages -d dist --dotfiles   # --dotfiles required for .well-known/
 ```
 
 Pages source: branch `gh-pages` / root.
