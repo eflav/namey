@@ -4,7 +4,7 @@ export const waitlistCopy = {
   title: 'Namey Pro is on the way',
   body: 'You’re building a real shortlist. Join the waitlist and we’ll email you when Pro opens — still no account needed for the names you save here.',
   emailPlaceholder: 'Your email',
-  primaryCta: 'Join waitlist',
+  primaryCta: 'Join the Pro waitlist',
   dismiss: 'Not now',
   /** Confirmation after join (product ship criteria; not in Writer file yet). */
   joinedToast: 'You’re on the list — thanks',

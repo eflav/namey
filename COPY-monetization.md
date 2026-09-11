@@ -8,7 +8,7 @@ No prices. No Stripe. Namey only.
 - **Title:** Namey Pro is on the way
 - **Body:** You’re building a real shortlist. Join the waitlist and we’ll email you when Pro opens — still no account needed for the names you save here.
 - **Email placeholder:** Your email
-- **Primary CTA:** Join waitlist
+- **Primary CTA:** Join the Pro waitlist
 - **Dismiss:** Not now
 
 ## Tip / support sheet (Favourites + Privacy)
