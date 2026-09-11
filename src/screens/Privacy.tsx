@@ -22,6 +22,11 @@ export function PrivacyScreen({ onBack, onSupport }: Props) {
           stays on this phone.
         </p>
       </div>
+      <p className="lede">
+          <a href="https://eflav.github.io/namey/privacy.html" target="_blank" rel="noopener noreferrer">
+            Full privacy policy
+          </a>
+        </p>
       <div className="footer-actions">
         {onSupport && (
           <button type="button" className="btn btn-ghost btn-block support-link" onClick={onSupport}>
