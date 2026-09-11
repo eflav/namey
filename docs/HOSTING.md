@@ -6,7 +6,7 @@
 
 - Repo: https://github.com/eflav/namey
 - Hosting: GitHub Pages (project site)
-- Deploy: GitHub Actions workflow `.github/workflows/deploy-pages.yml` on push to `main`
+- Deploy branch: `gh-pages` (built `dist/` published by `npx gh-pages`)
 
 ## Base path
 
@@ -19,11 +19,21 @@ Caveats:
 - Preview locally with the same base: `npm run build && npm run preview` then open the `/namey/` path Vite prints.
 - Do **not** strip the trailing `/namey/` when linking — root `https://eflav.github.io/` is not this app.
 
-## Deploy flow
+## Deploy flow (current)
 
-1. Push to `main` (or run **Deploy to GitHub Pages** via Actions → workflow_dispatch).
-2. Workflow builds with `npm ci && npm run build`, uploads `dist/`, deploys via `actions/deploy-pages`.
-3. Pages source: **GitHub Actions** (not branch `/docs`).
+Actions workflow push is blocked for this OAuth token (`workflow` scope missing). Until that scope is granted:
+
+```bash
+cd /workspace/namey
+npm run build
+npx --yes gh-pages -d dist
+```
+
+Pages source: branch `gh-pages` / root.
+
+## Actions workflow (preferred once `workflow` scope exists)
+
+File ready on disk: `.github/workflows/deploy-pages.yml` (build + upload-pages-artifact + deploy-pages on push to `main`). Re-add and push after `gh auth refresh -s workflow` (or a PAT with `workflow`), then switch Pages source to **GitHub Actions**.
 
 ## Local / temporary tunnels
 
@@ -31,4 +41,4 @@ Previous Cloudflare Tunnel / local `:4173` previews are superseded by the Pages 
 
 ## Rebuild notes
 
-`dist/` is gitignored; CI always builds from source. Prefer Actions over committing `dist` or `npx gh-pages`.
+`dist/` is gitignored on `main`; the `gh-pages` branch holds the static build only. Prefer rebuilding from source before each publish.
