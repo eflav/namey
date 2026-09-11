@@ -1,10 +1,10 @@
 # Namey
 
-Find your baby’s name — guided quiz, endless ranked deck, blue + pink baby-app UI.
+Find your baby’s name — guided quiz, ranked name deck, blue + pink baby-app UI.
 
 ## Features
 
-- Boy / girl → cultures & themes → short quiz → endless name cycle
+- Boy / girl → cultures & themes → short quiz → name deck
 - Back / Next on the deck; Save favourites; copy to share
 - Unique decorative motif per name (hash → 10 Design variants)
 - Recovery tips if nothing’s clicking yet

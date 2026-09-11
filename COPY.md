@@ -8,7 +8,7 @@ Final strings only. Ready to paste. Choice ids/effects unchanged.
 - **Sub:** Pick boy or girl, add any vibes you like, then a short quiz. We’ll show names with meanings you’ll remember.
 - **Pill 1:** Boy or girl
 - **Pill 2:** Short quiz
-- **Pill 3:** Endless names
+- **Pill 3:** Names that fit
 - **Primary CTA:** Start naming
 - **Secondary:** Favourites
 

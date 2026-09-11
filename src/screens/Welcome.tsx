@@ -30,7 +30,7 @@ export function Welcome({ onStart, onFavourites, favCount }: Props) {
             Short quiz
           </span>
           <span className="trust-pill trust-pill-pink" role="listitem">
-            Endless names
+            Names that fit
           </span>
         </div>
       </div>

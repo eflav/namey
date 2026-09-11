@@ -17,7 +17,7 @@
 ## 1) TikTok + organic launch
 
 ### Positioning (one line)
-**Not another baby-name list — the fun way you actually decide.** Short quiz → endless deck → share the name + hidden meaning.
+**Not another baby-name list — the fun way you actually decide.** Short quiz → name deck → share the name + hidden meaning.
 
 ### Audience
 - Primary: UK expectant parents in the shortlist phase (trying for / pregnant / newly pregnant)
