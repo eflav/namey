@@ -22,3 +22,10 @@ https://eflav.github.io/namey/privacy.html
 ## Do not
 - Put £ / IAP in listing until money approved
 - Mix StairFit assets
+
+
+## Listing paste (from LISTING-COPY.md)
+- **Short:** Find baby names that fit. Quiz, meanings, shortlist on your phone.
+- **Full / What’s new / Privacy body:** see `docs/play-store/LISTING-COPY.md`
+- **Privacy URL:** https://eflav.github.io/namey/privacy.html
+- **QA:** `docs/play-store/QA-TWA.md` after internal testing AAB is up
