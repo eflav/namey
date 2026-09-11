@@ -6,11 +6,11 @@
 **Scope:** Namey only. Quiet until live. Profit ASAP without burning trust or ad spend on a tunnel URL.
 
 **Hard gates before any paid traffic or “go big” posting**
-- Permanent public URL (not Cloudflare quick tunnel)
-- Share caption includes that stable URL
+- Permanent public URL — **LIVE:** `https://eflav.github.io/namey/` (Berry confirmed 2026-09-11)
+- Share caption includes that URL (never the tunnel)
 - Share card + A2HS smoke-pass on iOS Safari + Home Screen
 
-Until then: seed content, rehearse scripts, collect waitlist emails on a one-pager if needed — **do not** point TikTok bios at a rotating tunnel.
+**Organic unlocked.** Seed content + bio now. Hold paid until 3 organic winners. Never link the old tunnel.
 
 ---
 
@@ -49,7 +49,7 @@ Use Writer’s product captions for in-app share; these are **TikTok post** capt
 ```
 {Name} — {hidden meaning}
 
-Found it on Namey (quiz → shortlist, stays on your phone).
+Found it on Namey — https://eflav.github.io/namey/
 #babynames #namey #pregnant
 ```
 
@@ -57,21 +57,23 @@ Found it on Namey (quiz → shortlist, stays on your phone).
 ```
 We were stuck. Three-minute quiz later… {Name}.
 
-If you’re shortlisting, try Namey — no account, shortlist on this phone.
+Try Namey — https://eflav.github.io/namey/
+No account · shortlist on this phone.
 ```
 
 **C — Soft CTA / waitlist**
 ```
 {Name} hit different.
 
-Link in bio when we’re live · Namey Pro waitlist open for partner shortlists.
+https://eflav.github.io/namey/
+Namey Pro waitlist (email only) · tips coming soon.
 ```
 
 **D — Faceless volume**
 ```
 Name + meaning. That’s the post.
 
-Namey — find your baby’s name without the spreadsheet.
+https://eflav.github.io/namey/
 ```
 
 ### Posting cadence (first 14 days after stable URL)
@@ -136,34 +138,39 @@ Partner “both liked” is P1 after share works (Product); until then, captions
 
 ## 3) First revenue bet
 
-### Decision: **Namey Pro waitlist (primary) + tip after share (cash this week)**
+### Decision (locked 2026-09-11 with Berry / Product)
+
+**Namey Pro waitlist = primary bet.** Tip cash = blocked until Edward approves taking money.
 
 | Option | Verdict | Why |
 | --- | --- | --- |
 | **Paid ads first** | No | Burning £ into a tunnel / unproven creative. Unlock after stable host + organic winners. |
-| **Tip jar** | **Yes — ship first for cash** | Privacy-safe, one-screen, after share/save. Small ARPU but real £ while quiet-pre-launch. |
-| **Namey Pro waitlist** | **Yes — primary bet** | Highest LTV path. Sell *partner shortlist / sync later* without breaking today’s on-device story. Captures emails for launch day. |
-| **Affiliate** | Later | Nursery/print affiliates fit the moment but risk “sponsored names” vibes. Revisit after Pro waitlist + tip are live. |
+| **Tip jar** | **Copy-only for now** | Product v1 = “tips coming soon” until Edward approves money. **No Ko-fi / Stripe links** in TikTok or the app. |
+| **Namey Pro waitlist** | **Yes — primary bet** | Highest LTV path. Email only (Product locked). Captures launch list without breaking on-device privacy. |
+| **Affiliate** | Later | Revisit after waitlist is live and tip money is approved. |
 
 ### Why this mix
-1. **Edward wants profit ASAP** → tip jar can ship in days and collect £ without ad spend.  
-2. **Brand & roadmap** → Pro waitlist funds the real product (partner / sync) and builds a list for launch noise.  
-3. **Trust strip** → tips and waitlist don’t need tracking pixels or accounts inside the quiz.  
-4. **Ads** → only when the URL won’t die mid-campaign.
+1. **Profit path without premature payments** → waitlist now; real tips only after Edward’s money go-ahead.  
+2. **Brand & roadmap** → Pro waitlist funds partner/sync later without shipping partner accounts this cut.  
+3. **Trust strip** → waitlist is email-only; no tracking pixels inside the quiz.  
+4. **Ads** → hold until 3 organic winners (host is live).
 
 ### Pro waitlist offer (draft)
-> **Namey Pro (coming)** — share one shortlist with your partner, keep favourites if you change phones.  
-> Join the waitlist · free while we’re early.
+> **Namey Pro (coming)** — keep your shortlist across phones and share it when you’re ready.  
+> Join the waitlist · email only · free while we’re early.
 
-Price signal later with Product (don’t invent £ here). Waitlist CTA after first share or from Favourites.
+Fields: **email only**. CTA after first share or from Favourites.
 
-### Tip moment (draft)
-After a successful share: soft sheet — “Namey’s free. Tip the build if you like?” · Skip always easy.
+### Tip moment (v1 — no payments)
+After a successful share: soft sheet copy only — “Namey’s free. Tips coming soon.” · No payment link · Skip always easy.  
+Swap in a real tip link **only** after Edward approves taking money.
 
 ### Explicit non-goals this week
+- Live tip / payment links (Ko-fi, Stripe, etc.)  
 - In-app display ads  
 - Buying TikTok traffic  
-- Fake “nationwide” or store listing until A2HS + trust copy are solid
+- Partner “both liked” mechanic (accounts stay cut)  
+- Fake store listing until A2HS + trust copy are solid
 
 ---
 
@@ -190,7 +197,7 @@ Keep on-screen text huge. Cut dead air. End on the ShareCard freeze-frame.
 **VO:** “You’re not picking a name. You’re picking one you’ll both still like at 3am.”  
 **Beat:** Save → share sheet → ShareCard.  
 **End:** “Namey — decide together without the argument spreadsheet.”  
-**Note:** Lean into couple story even before partner accounts ship.
+**Note:** Couple *story* only — partner accounts stay cut; no “both liked” mechanic in product or copy.
 
 ### Script 4 — One-name deep dive (12–18s)
 **Visual:** Screen-record Name detail: motif, meaning, similar names (when shipped).  
@@ -211,8 +218,10 @@ Keep on-screen text huge. Cut dead air. End on the ShareCard freeze-frame.
 
 - [ ] Permanent host live; tunnel retired from all public links  
 - [ ] Share captions append stable URL  
-- [ ] Tip jar endpoint + post-share sheet  
-- [ ] Pro waitlist capture (Favourites + post-share)  
+- [x] `eflav.github.io/namey` confirmed green by Berry  
+- [x] Share captions + TikTok bio use that URL (not tunnel)  
+- [ ] Pro waitlist capture — email only (Favourites + post-share)  
+- [ ] Post-share “tips coming soon” copy (no payment link until Edward approves)  
 - [ ] TikTok account bio + pinned how-it-works  
 - [ ] 10 ShareCards pre-exported (boy/girl mix) for faceless backlog  
 - [ ] First 14-day content calendar filled from scripts 1–5  
@@ -220,9 +229,16 @@ Keep on-screen text huge. Cut dead air. End on the ShareCard freeze-frame.
 
 ---
 
-## Open asks for Product / Berry
+## Decisions locked (Berry 2026-09-11)
 
-1. Confirm tip jar provider (Stripe Payment Link / Ko-fi / similar) — Marketing can draft copy once chosen.  
-2. Confirm Pro waitlist fields (email only vs email + “I’m expecting / supporting”).  
-3. When partner accounts reopen, Marketing will rework Script 3 into a true “both liked” mechanic.
+1. **Tips:** no provider yet — copy-only “tips coming soon” until Edward approves money.  
+2. **Waitlist:** email only.  
+3. **Partner accounts:** stay cut — Script 3 stays couple-story, not “both liked”.  
+4. **Stable URL:** `https://eflav.github.io/namey/` — **live.** Captions + share pack updated; never use the tunnel.
+
+## Still waiting
+
+- [x] Berry: GitHub Pages live — captions/share pack use `https://eflav.github.io/namey/` only  
+- [ ] Edward: approve taking tip money (provider TBD) before any payment link ships  
+- [ ] 3 organic winners before any paid  
 

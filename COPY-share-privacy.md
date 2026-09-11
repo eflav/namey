@@ -9,6 +9,7 @@ Final strings only. Ready to paste.
 {Name} — {hidden meaning}
 
 Found on Namey
+https://eflav.github.io/namey/
 ```
 
 ### Favourites (multi-name)
@@ -19,6 +20,7 @@ Our shortlist:
 {Name3} — {hidden meaning}
 
 Found on Namey
+https://eflav.github.io/namey/
 ```
 
 Notes for eng:
@@ -26,6 +28,7 @@ Notes for eng:
 - If hidden meaning is missing, fall back to literal Meaning.
 - Cap multi-name shares at 5 lines; if more favourites, end with `+{N} more` before the footer.
 - Keep line breaks as shown (TikTok / Messages friendly).
+- **URL:** always `https://eflav.github.io/namey/` — never a Cloudflare tunnel or localhost.
 
 ## Add to Home Screen (after first save)
 

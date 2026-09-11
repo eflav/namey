@@ -3,7 +3,8 @@
 **Owner:** Mr Sales  
 **For:** Berry (Namey lead)  
 **Date:** 2026-09-11  
-**Status:** Draft for backlog — **quiet until live**. No public prices or Stripe until Edward approves (section 4).  
+**Status:** Host live — **waitlist-only / no public £** until Edward approves money.  
+**Live URL:** https://eflav.github.io/namey/  
 **Scope:** `/workspace/namey` only. Partner / Either stays cut unless Product reopens.
 
 ---
@@ -72,7 +73,7 @@ Partner sync / couple matching (cut this week). Fancy AI rename. Multi-device cl
 | Absolute | **10 Pro purchases** in week 1 | Small n; proves checkout + copy, not scale |
 | Leading indicator | ≥30% of paywall views start checkout | If lower, price/copy problem not traffic |
 
-**Pre-live (now):** no conversion target on the Cloudflare tunnel — URL is not sales-stable. Quiet until hosting sticks.
+**Now (host live, money not approved):** no public £ or Pro checkout. Waitlist / soft CTA only. Conversion targets below apply to **week 1 after Edward approves money + Stripe is live** — not this waitlist phase.
 
 ### Paywall copy (en-GB, draft for Writer)
 - Headline: **Keep your shortlist.**  
@@ -94,7 +95,7 @@ Partner sync / couple matching (cut this week). Fancy AI rename. Multi-device cl
 4. **Stripe account** — which legal entity / bank; UK GBP; who holds 2FA.  
 5. **Refunds** — e.g. 14-day no-questions on Pro (recommended for trust).  
 6. **Public copy** — paywall + TikTok CTA may show £ only after this approval.  
-7. **Permanent host** — Pro checkout URL must not sit on a rotating tunnel.  
+7. **Permanent host** — ✅ live at https://eflav.github.io/namey/ (Pro checkout must use this, not any tunnel).  
 8. **Tax / VAT** — confirm Stripe Tax or manual; Sales will not invent VAT treatment.  
 9. **Privacy** — Pro must not require account email unless Product decides; if Checkout collects email, say so in privacy copy (Writer).  
 
@@ -111,5 +112,43 @@ Paid ads spend, App Store IAP (PWA-first), partner revenue share, StairFit cross
 | **Mr Sales** | Offer, paywall timing, checkout path, conversion goals, Edward approval checklist |
 | **Berry** | Ship unlocks + host; greenlight when quiet period ends |
 
-**Next from Sales (when Berry says go):** Stripe sandbox smoke → Edward approval card → live Payment Link on permanent host → week-1 conversion watch.
+**Gate:** Waitlist-only until Edward approves money. Then: Stripe sandbox smoke → Edward approval card → live Payment Link on https://eflav.github.io/namey/ → week-1 conversion watch.
+
+---
+
+## 5) Week-1 convert checklist (post–money approval)
+
+Run this in the **first 7 days after** Pro checkout is live on the permanent host. Still **no public £** until that approval.
+
+### Day 0 — go-live smoke
+- [ ] Open https://eflav.github.io/namey/ on iOS Safari + Android Chrome (incognito)
+- [ ] Free path: quiz → deck → save → favourites works
+- [ ] Paywall triggers only as approved (11th save and/or PDF / Similar Pro)
+- [ ] Stripe Checkout / Payment Link opens in GBP; test card succeeds in **sandbox**, then one **live** £4.99 test (refund after)
+- [ ] Pro unlocks persist after refresh (same browser/install)
+- [ ] Share caption includes permanent URL (not tunnel)
+- [ ] No £ on TikTok / waitlist / App copy unless Edward approved public messaging
+
+### Days 1–7 — measure
+| Check | Pass if |
+| --- | --- |
+| Sessions that hit paywall | Tracked (even if manual tally) |
+| Paywall → checkout start | ≥30% |
+| Checkout → paid | Watch; aim overall free→Pro **2–4%** of paywall sessions |
+| Absolute Pro purchases | On track for **~10** by day 7 |
+| Refunds / disputes | Note reason; don’t change price mid-week without Edward |
+| Drop-off note | If checkout start <30%, flag copy/price to Berry + Writer before changing offer |
+
+### Daily sales actions (15 min)
+- [ ] Skim new waitlist / support mail for “how do I pay?” — reply with approved wording only
+- [ ] Log: paywall hits, checkouts started, paid, refunds (sheet or notes)
+- [ ] Ping Berry if unlock broken; ping Marketing only if traffic is zero (not a pricing issue)
+
+### End of week 1 — decide
+- [ ] Hit ≥2% paywall→Pro **or** ≥10 paid → keep £4.99 one-time; tighten copy only
+- [ ] Under 2% with healthy traffic → propose A/B to Edward (price or free-cap), do **not** ship alone
+- [ ] Write one paragraph outcome into this doc under “Week-1 result” (date + numbers)
+
+### Week-1 result
+_TBD — fill after first live money week._
 

@@ -26,9 +26,11 @@ function meaningLine(n: Pick<NameEntry, 'meaning' | 'hiddenMeaning'>): string {
   return (n.hiddenMeaning || n.meaning || '').trim();
 }
 
-/** Single-name share caption (COPY-share-privacy.md). */
+const NAMEY_PUBLIC_URL = 'https://eflav.github.io/namey/';
+
+/** Single-name share caption (COPY-share-privacy.md). Never use tunnel URLs. */
 export function shareCaptionSingle(name: Pick<NameEntry, 'name' | 'meaning' | 'hiddenMeaning'>): string {
-  return `${name.name} — ${meaningLine(name)}\n\nFound on Namey`;
+  return `${name.name} — ${meaningLine(name)}\n\nFound on Namey\n${NAMEY_PUBLIC_URL}`;
 }
 
 /**
@@ -43,7 +45,7 @@ export function shareCaptionFavourites(
   const extra = names.length - cap;
   const body = ['Our shortlist:', ...lines];
   if (extra > 0) body.push(`+${extra} more`);
-  body.push('', 'Found on Namey');
+  body.push('', 'Found on Namey', NAMEY_PUBLIC_URL);
   return body.join('\n');
 }
 
