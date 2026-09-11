@@ -1,11 +1,14 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import namesData from './data/names.json';
 import { QUIZ_ROUNDS } from './data/quiz';
 import { A2hsDialog } from './components/A2hsDialog';
+import { ProWaitlistDialog } from './components/ProWaitlistDialog';
 import { Progress } from './components/Progress';
+import { SupportSheet } from './components/SupportSheet';
 import { TrustStrip } from './components/TrustStrip';
 import { useA2hs } from './hooks/useA2hs';
 import { useFavourites } from './hooks/useFavourites';
+import { useProWaitlist } from './hooks/useProWaitlist';
 import { clearFlow, loadCycle, loadFlow, saveCycle, saveFlow } from './lib/persist';
 import { rankNames } from './scoring';
 import { CycleScreen, type CycleSession } from './screens/Cycle';
@@ -41,6 +44,8 @@ export default function App() {
   const [cycleSession, setCycleSession] = useState<CycleSession | null>(() => loadCycle());
   const favs = useFavourites();
   const a2hs = useA2hs();
+  const proWaitlist = useProWaitlist();
+  const [supportOpen, setSupportOpen] = useState(false);
 
   // Persist mid-flight quiz / filters / step (not privacy chrome alone)
   useEffect(() => {
@@ -50,6 +55,12 @@ export default function App() {
   useEffect(() => {
     saveCycle(cycleSession);
   }, [cycleSession]);
+
+  useEffect(() => {
+    if (state.step === 'favourites') {
+      proWaitlist.maybePromptOnFavouritesOpen(favs.ids.length);
+    }
+  }, [state.step, favs.ids.length, proWaitlist.maybePromptOnFavouritesOpen]);
 
   const ranked = useMemo(() => {
     if (!state.gender || state.step === 'welcome' || state.step === 'gender' || state.step === 'filters') {
@@ -87,7 +98,22 @@ export default function App() {
     go('privacy');
   };
 
+  const waitlistShownRef = useRef(false);
+
+  const handleToggleFavourite = (id: string) => {
+    const result = favs.toggle(id);
+    waitlistShownRef.current = false;
+    if (result.added) {
+      waitlistShownRef.current = proWaitlist.maybePromptAfterSave(result.count);
+    }
+  };
+
   const onNameSaved = (seen: number) => {
+    // Prefer Pro waitlist over A2HS when both would fire on the same save
+    if (waitlistShownRef.current) {
+      waitlistShownRef.current = false;
+      return;
+    }
     // After save: favourites count will be ≥ 1; gate on seen ≥ 10
     const saves = Math.max(1, favs.ids.length + 1);
     a2hs.maybePromptAfterSave(seen, saves);
@@ -192,7 +218,7 @@ export default function App() {
           favourited={favs.has}
           favouriteCount={favs.ids.length}
           onOpen={(id) => openDetail(id, 'results')}
-          onToggleFavourite={favs.toggle}
+          onToggleFavourite={handleToggleFavourite}
           onRefine={() => {
             setCycleSession(null);
             setState((s) => ({ ...s, step: 'quiz', quizIndex: 0 }));
@@ -223,7 +249,7 @@ export default function App() {
           name={selectedName}
           pool={ranked.names.length ? ranked.names : ALL_NAMES}
           favourited={favs.has(selectedName.id)}
-          onToggleFavourite={() => favs.toggle(selectedName.id)}
+          onToggleFavourite={() => handleToggleFavourite(selectedName.id)}
           onBack={() => go(returnStep === 'detail' ? 'results' : returnStep)}
           onOpenSimilar={(id) => openDetail(id, returnStep === 'favourites' ? 'favourites' : 'results')}
           onNameSaved={onNameSaved}
@@ -235,14 +261,18 @@ export default function App() {
         <FavouritesScreen
           names={favouriteNames}
           onOpen={(id) => openDetail(id, 'favourites')}
-          onToggleFavourite={favs.toggle}
+          onToggleFavourite={handleToggleFavourite}
           onBack={() => go(returnStep === 'favourites' ? 'welcome' : returnStep)}
           onRestart={restart}
+          onSupport={() => setSupportOpen(true)}
         />
       )}
 
       {state.step === 'privacy' && (
-        <PrivacyScreen onBack={() => go(returnStep === 'privacy' ? 'welcome' : returnStep)} />
+        <PrivacyScreen
+          onBack={() => go(returnStep === 'privacy' ? 'welcome' : returnStep)}
+          onSupport={() => setSupportOpen(true)}
+        />
       )}
 
       {state.step !== 'privacy' && (
@@ -257,6 +287,20 @@ export default function App() {
         onInstall={() => void a2hs.install()}
         onDismiss={a2hs.dismiss}
       />
+
+      <ProWaitlistDialog
+        open={proWaitlist.open}
+        onSubmit={(email) => proWaitlist.join(email)}
+        onDismiss={proWaitlist.dismiss}
+      />
+
+      <SupportSheet open={supportOpen} onClose={() => setSupportOpen(false)} />
+
+      {proWaitlist.toast && (
+        <div className="toast" role="status">
+          {proWaitlist.toast}
+        </div>
+      )}
     </div>
   );
 }

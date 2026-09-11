@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { NameCard } from '../components/NameCard';
 import { ShareCard } from '../components/ShareCard';
+import { supportCopy } from '../copy/monetization';
 import { shareCaptionFavourites, shareOrCopy } from '../lib/share';
 import type { NameEntry } from '../types';
 
@@ -10,9 +11,17 @@ interface Props {
   onToggleFavourite: (id: string) => void;
   onBack: () => void;
   onRestart: () => void;
+  onSupport?: () => void;
 }
 
-export function FavouritesScreen({ names, onOpen, onToggleFavourite, onBack, onRestart }: Props) {
+export function FavouritesScreen({
+  names,
+  onOpen,
+  onToggleFavourite,
+  onBack,
+  onRestart,
+  onSupport,
+}: Props) {
   const [toast, setToast] = useState<string | null>(null);
 
   useEffect(() => {
@@ -70,6 +79,11 @@ export function FavouritesScreen({ names, onOpen, onToggleFavourite, onBack, onR
         <button type="button" className="btn btn-ghost btn-block" onClick={onRestart}>
           Start over
         </button>
+        {onSupport && (
+          <button type="button" className="btn btn-ghost btn-block support-link" onClick={onSupport}>
+            {supportCopy.trigger}
+          </button>
+        )}
       </div>
 
       {toast && (
