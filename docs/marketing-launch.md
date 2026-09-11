@@ -76,6 +76,21 @@ Name + meaning. That’s the post.
 https://eflav.github.io/namey/
 ```
 
+
+## TikTok bio (paste today)
+
+```
+Find your baby’s name — quick quiz, shortlist on your phone.
+https://eflav.github.io/namey/
+```
+
+Pinned comment / first reply starter:
+```
+Free quiz → save favourites → share the meaning card.
+Shortlist stays on your phone · no account.
+Pro waitlist inside the app (email only) · tips coming soon.
+```
+
 ### Posting cadence (first 14 days after stable URL)
 
 | Window | Cadence | Mix |
@@ -220,8 +235,8 @@ Keep on-screen text huge. Cut dead air. End on the ShareCard freeze-frame.
 - [ ] Share captions append stable URL  
 - [x] `eflav.github.io/namey` confirmed green by Berry  
 - [x] Share captions + TikTok bio use that URL (not tunnel)  
-- [ ] Pro waitlist capture — email only (Favourites + post-share)  
-- [ ] Post-share “tips coming soon” copy (no payment link until Edward approves)  
+- [x] Pro waitlist capture — email only (in app; Berry confirmed live)  
+- [x] Tips “coming soon” copy live (no payment link)  
 - [ ] TikTok account bio + pinned how-it-works  
 - [ ] 10 ShareCards pre-exported (boy/girl mix) for faceless backlog  
 - [ ] First 14-day content calendar filled from scripts 1–5  
