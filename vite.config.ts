@@ -11,6 +11,19 @@ export default defineConfig({
   },
   plugins: [
     react(),
+    {
+      name: "namey-waitlist-stub",
+      configureServer(server) {
+        server.middlewares.use("/api/waitlist", (req, res, next) => {
+          if (req.method === "POST") {
+            res.statusCode = 204;
+            res.end();
+            return;
+          }
+          next();
+        });
+      },
+    },
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icons/icon.svg'],

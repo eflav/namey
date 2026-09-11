@@ -15,6 +15,13 @@ function read(): string[] {
   }
 }
 
+export interface FavouriteToggleResult {
+  added: boolean;
+  removed: boolean;
+  count: number;
+  ids: string[];
+}
+
 export function useFavourites() {
   const [ids, setIds] = useState<string[]>(() =>
     typeof window !== 'undefined' ? read() : [],
@@ -30,9 +37,11 @@ export function useFavourites() {
   }, []);
 
   const toggle = useCallback(
-    (id: string) => {
-      const next = ids.includes(id) ? ids.filter((x) => x !== id) : [...ids, id];
+    (id: string): FavouriteToggleResult => {
+      const adding = !ids.includes(id);
+      const next = adding ? [...ids, id] : ids.filter((x) => x !== id);
       persist(next);
+      return { added: adding, removed: !adding, count: next.length, ids: next };
     },
     [ids, persist],
   );
