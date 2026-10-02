@@ -9,6 +9,8 @@ export const waitlistCopy = {
   /** Confirmation after join (product ship criteria; not in Writer file yet). */
   joinedToast: 'You’re on the list — thanks',
   invalidEmail: 'Enter a valid email',
+  /** Shown if the waitlist send fails (offline etc.). Placeholder pending Writer sign-off. */
+  sendFailed: 'Couldn’t send that. Check your connection and try again.',
 } as const;
 
 export const supportCopy = {

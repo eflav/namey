@@ -34,6 +34,20 @@ Block production if any **P0** fails. File bugs: title · severity · steps · e
 | 1.3 | Cold start (force-stop → reopen) loads https://eflav.github.io/namey/ without error / blank forever | ☐ PASS ☐ FAIL |
 | 1.4 | URL bar / Digital Asset Links: no persistent browser address chrome if asset links verified; if Chrome Custom Tab shows URL, confirm path stays under `/namey/` | ☐ PASS ☐ FAIL · ☐ N/A |
 
+### 1b. Post-rebuild (v3 / versionCode 3, 1.0.2) launch visuals — Huawei
+
+Run on the Huawei device after installing the v3 build from internal testing. Do a cold start (force-stop, or swipe away from recents) and a first launch after clearing storage. Screen-record if you can; the flashes are brief.
+
+| # | Check | Result |
+| --- | --- | --- |
+| 1b.1 | From tapping the launcher icon to the welcome screen, the screen stays **blue `#3B82F6`** the whole time, with the pink N centred during the splash | ☐ PASS ☐ FAIL |
+| 1b.2 | **No white flash** at any point between tap and welcome screen (before the splash, splash → web, or while the page loads) | ☐ PASS ☐ FAIL |
+| 1b.3 | **No black flash** at any point between tap and welcome screen | ☐ PASS ☐ FAIL |
+| 1b.4 | **Status bar is blue** (`#3B82F6`, light icons) during the splash *and* once the welcome screen shows. FAIL if black, white or grey | ☐ PASS ☐ FAIL |
+| 1b.5 | **No address bar / URL bar** at the top (TWA verified). FAIL if a Chrome toolbar showing `eflav.github.io` appears | ☐ PASS ☐ FAIL |
+| 1b.6 | Navigation bar is light (`#F5F9FF`) with dark buttons (gesture-nav devices: handle is visible) | ☐ PASS ☐ FAIL · ☐ N/A |
+| 1b.7 | No Android "Viewing full screen" hint on first launch | ☐ PASS ☐ FAIL |
+
 ### 2. First-run path (gender → quiz → deck → save → share)
 
 | # | Check | Result |
@@ -53,6 +67,10 @@ Block production if any **P0** fails. File bugs: title · severity · steps · e
 | --- | --- | --- |
 | 3.1 | In-app privacy / trust link opens **https://eflav.github.io/namey/privacy.html** (readable; not 404) | ☐ PASS ☐ FAIL |
 | 3.2 | Play Console privacy policy URL matches the same page | ☐ PASS ☐ FAIL |
+| 3.3 | Privacy page shows a real contact email for deletion requests | ☐ PASS ☐ FAIL |
+| 3.4 | Waitlist email (if field shipped): submit a test address and confirm with Berry it appears as a new row in the waitlist Google Sheet (via the Google Form), not just the phone. FAIL if no row arrives. Block production, but not internal testing. | ☐ PASS ☐ FAIL · ☐ N/A (field removed) |
+| 3.5 | In-app Privacy screen shows the Google Sheet waitlist line and the contact line; the `edwardflavel@gmail.com` link opens the mail app | ☐ PASS ☐ FAIL |
+| 3.6 | Waitlist offline: airplane mode → submit a valid email → error message shows in the dialog, dialog stays open, no "You're on the list" toast | ☐ PASS ☐ FAIL · ☐ N/A |
 
 ### 4. Back / gesture
 

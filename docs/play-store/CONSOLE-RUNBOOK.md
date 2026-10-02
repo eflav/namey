@@ -14,7 +14,7 @@
 | Listing copy | `docs/play-store/LISTING-COPY.md` |
 | Signing | `docs/play-store/SIGNING.md` |
 | QA smoke | `docs/play-store/QA-TWA.md` |
-| AAB | `android/app-release-bundle.aab` (after Bubblewrap build) |
+| AAB | `docs/play-store/artifacts/namey-app.namey.twa-v2.aab` (v2: versionCode 2 / 1.0.1, **minSdk 24**; also copied to `android/app-release-bundle.aab`) — v1 (minSdk 21) was rejected by Play automatic protection, do not re-upload |
 
 ## You do once (Edward)
 
@@ -30,7 +30,7 @@
    - No sale of data; no tracking across apps for ads
 5. **Content rating** — complete IARC questionnaire (Parenting / reference; not user-generated chat). Target audience: parents / general (not Designed for Families / under-13).
 6. **Store listing** — paste short + full description + what’s new from `LISTING-COPY.md`. Screenshots / feature graphic from Design when ready. Category: Parenting (or Lifestyle).
-7. **Upload AAB** — Internal testing track first (`android/app-release-bundle.aab`). Add Edward (and testers) as license testers.
+7. **Upload AAB** — Internal testing track first (`docs/play-store/artifacts/namey-app.namey.twa-v2.aab`, versionCode 2, minSdk 24). Add Edward (and testers) as license testers.
 8. **Digital Asset Links** — after first upload, copy **App signing key certificate** SHA256 from Play Console → Setup → App signing into `assetlinks.json` (see SIGNING.md). Host at **origin root** `https://eflav.github.io/.well-known/assetlinks.json` (user/org Pages repo or custom domain — project Pages under `/namey/` alone is not enough for Chrome verification).
 9. Smoke with `QA-TWA.md` on Internal testing.
 10. Promote to Production when QA is green → **Publish** (or staged rollout 20%). **Edward only** presses Publish.

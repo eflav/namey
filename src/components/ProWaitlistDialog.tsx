@@ -26,6 +26,8 @@ export function ProWaitlistDialog({ open, onSubmit, onDismiss }: Props) {
     try {
       await onSubmit(email.trim());
       setEmail('');
+    } catch {
+      setError(waitlistCopy.sendFailed);
     } finally {
       setBusy(false);
     }

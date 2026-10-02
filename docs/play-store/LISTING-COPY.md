@@ -81,7 +81,7 @@ Your shortlist stays on your phone
 Names you save (favourites) are stored on this device. We don’t create an account for you to use Namey, and we don’t sync your shortlist to our servers.
 
 Optional Pro waitlist email
-If you join the Namey Pro waitlist, you can leave an email address so we can tell you when Pro opens. We use that email only for waitlist messages about Namey Pro. You can ignore the waitlist and keep using Namey without giving an email.
+If you join the Namey Pro waitlist, you can leave an email address so we can tell you when Pro opens. We store it in a private Google Sheet and use it only for waitlist messages about Namey Pro. You can ignore the waitlist and keep using Namey without giving an email.
 
 No sale of data
 We don’t sell your personal data. We don’t use your shortlist for advertising profiles.
@@ -98,7 +98,7 @@ What we don’t do
 • We don’t mix Namey data with other products
 
 Contact
-Questions about privacy: use the contact details on the Play listing or the Namey site (https://eflav.github.io/namey/).
+Questions, or want your waitlist email deleted? Email edwardflavel@gmail.com and we'll remove it.
 
 Changes
 If we change how Namey handles data, we’ll update this page and the date above.

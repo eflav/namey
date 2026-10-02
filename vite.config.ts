@@ -11,19 +11,6 @@ export default defineConfig({
   },
   plugins: [
     react(),
-    {
-      name: "namey-waitlist-stub",
-      configureServer(server) {
-        server.middlewares.use("/api/waitlist", (req, res, next) => {
-          if (req.method === "POST") {
-            res.statusCode = 204;
-            res.end();
-            return;
-          }
-          next();
-        });
-      },
-    },
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icons/icon.svg'],
@@ -32,7 +19,7 @@ export default defineConfig({
         short_name: 'Namey',
         description: 'Namey — find your baby’s name with a fun guided quiz.',
         theme_color: '#3B82F6',
-        background_color: '#F5F9FF',
+        background_color: '#3B82F6',
         display: 'standalone',
         orientation: 'portrait',
         start_url: '/namey/',

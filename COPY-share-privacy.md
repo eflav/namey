@@ -53,3 +53,8 @@ Notes for eng:
 
 - **Short (Privacy / listing):** Meanings and origins are given as-is for inspiration. They are not certified history or a guarantee of accuracy.
 - **Ultra-short (footnote):** Meanings are for inspiration — not certified history.
+
+## In-app Privacy screen: add after the "track you" paragraph (before the disclaimer)
+
+- **Para 3 (waitlist):** If you join the Pro waitlist, we keep your email in a private Google Sheet and only use it to tell you when Pro opens.
+- **Para 4 (contact):** Questions, or want your waitlist email deleted? Email edwardflavel@gmail.com and we'll remove it.

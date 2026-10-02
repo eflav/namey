@@ -1,3 +1,4 @@
+import { WAITLIST_FORM, isWaitlistFormConfigured } from '../config/waitlist';
 import type { FlowState } from '../types';
 import type { CycleSession } from '../screens/Cycle';
 
@@ -122,16 +123,20 @@ export function enqueueWaitlistEmail(email: string): void {
   }
 }
 
-/** Best-effort POST; always keeps local queue. Stub /api/waitlist may no-op. */
+/**
+ * Submit the email to the waitlist Google Form (no-cors → opaque response).
+ * An opaque response is treated as success; network failures throw so the
+ * dialog can show its error state.
+ */
 export async function postWaitlistEmail(email: string): Promise<void> {
-  enqueueWaitlistEmail(email);
-  try {
-    await fetch('/api/waitlist', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email }),
-    });
-  } catch {
-    /* queue-only until endpoint exists */
+  if (!isWaitlistFormConfigured()) {
+    throw new Error('Waitlist form IDs not configured (src/config/waitlist.ts)');
   }
+  const { FORM_ID, ENTRY_ID } = WAITLIST_FORM;
+  await fetch(`https://docs.google.com/forms/d/e/${FORM_ID}/formResponse`, {
+    method: 'POST',
+    mode: 'no-cors',
+    body: new URLSearchParams({ [`entry.${ENTRY_ID}`]: email }),
+  });
+  enqueueWaitlistEmail(email);
 }

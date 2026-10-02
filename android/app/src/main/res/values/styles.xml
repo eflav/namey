@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Namey: launcher/splash window theme.
+    The legacy @android:style/Theme.Translucent.NoTitleBar parent does not set
+    windowDrawsSystemBarBackgrounds, so Window.setStatusBarColor() (called by
+    androidbrowserhelper during the splash) is ignored and the status bar renders black.
+    Opting in here lets the splash show the brand blue status bar (#3B82F6) and the
+    #F5F9FF navigation bar. Colours come from the resValues in app/build.gradle.
+    NOTE: `bubblewrap update` regenerates AndroidManifest.xml; re-apply android:theme if it does.
+-->
+<resources>
+    <style name="NameyLauncherTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/navigationColor</item>
+        <!-- Light status bar icons on the blue bar. -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -18,8 +18,12 @@ export function PrivacyScreen({ onBack, onSupport }: Props) {
           Namey doesn’t track you around the web. What you save here is yours alone on this device.
         </p>
         <p className="lede">
-          If you join the optional Pro waitlist, we only use the email you type — your shortlist still
-          stays on this phone.
+          If you join the Pro waitlist, we keep your email in a private Google Sheet and only use it to
+          tell you when Pro opens.
+        </p>
+        <p className="lede">
+          Questions, or want your waitlist email deleted? Email{' '}
+          <a href="mailto:edwardflavel@gmail.com">edwardflavel@gmail.com</a> and we'll remove it.
         </p>
         <p className="lede">
           Meanings and origins are given as-is for inspiration. They are not certified history or a
