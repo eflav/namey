@@ -157,9 +157,7 @@ export function CycleScreen({
   const shareCurrent = async () => {
     if (!current) return;
     const result = await shareOrCopy(shareCaptionSingle(current));
-    if (result === 'shared') setToast('Shared');
-    else if (result === 'copied') setToast('Copied');
-    else setToast('Couldn’t share');
+    setToast(result === 'shared' ? 'Shared' : result === 'copied' ? 'Copied' : 'Couldn’t share');
   };
 
   if (!current) {

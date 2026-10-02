@@ -54,15 +54,19 @@ export function shareCaption(names: string[]): string {
   return `Name ideas from Namey\n${names.slice(0, 5).join(', ')}`;
 }
 
+/**
+ * Try the native share sheet; if it's missing or throws anything (AbortError,
+ * NotAllowedError, desktop Chrome quirks…), fall back to copying the text.
+ * A genuine user dismissal can't be told apart reliably, so we always copy.
+ */
 export async function shareOrCopy(text: string, title = 'Namey'): Promise<'shared' | 'copied' | 'failed'> {
-  try {
-    if (typeof navigator !== 'undefined' && typeof navigator.share === 'function') {
+  if (typeof navigator !== 'undefined' && typeof navigator.share === 'function') {
+    try {
       await navigator.share({ title, text });
       return 'shared';
+    } catch {
+      /* fall through to copy */
     }
-  } catch (err) {
-    // User cancelled share — don't fall through as failure noise
-    if (err instanceof DOMException && err.name === 'AbortError') return 'failed';
   }
   const ok = await copyText(text);
   return ok ? 'copied' : 'failed';
